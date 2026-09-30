@@ -1,0 +1,1501 @@
+Student_ID,Gender,Age,School_Type,Region,Attendance,Study_Hours,Final_Score,Internet_Access,Overall_Grade
+S1000,Male,16.0,,West,-5.0,7.3,33.0,Yes,A
+S1001,FEMALE,16.0,Private,West,64.0,,,,E
+S1002,male,15.0,Public,North,,10.2,-10.0, no ,B
+S1003,M,-1.0,PRIVATE ,North,-5.0,,78.0,,E
+S1004,FEMALE,-1.0,Private,North,95.0,1.4,57.0, no ,E
+S1005,M,,,South,-5.0,,54.0,,D
+S1006,,17.0,public,North,-5.0,,110.0,No,A
+S1007,F,-1.0,PRIVATE ,West,67.0,,110.0, no ,C
+S1008,male,19.0,public,South,-5.0,-3.0,,No,
+S1009,Male,16.0,PRIVATE ,West,105.0,,74.0,,
+S1010,Male,19.0,Public,East,93.0,,-10.0, no ,C
+S1011,Male,,public,Central,-5.0,29.2,84.0,,D
+S1012,M,17.0,PRIVATE ,North,105.0,,-10.0,Yes,F
+S1013,FEMALE,19.0,Public,Central,105.0,26.3,,No,C
+S1014,male,,PRIVATE ,East,,,-10.0, no ,
+S1015,FEMALE,16.0,,South,64.0,,110.0,Yes,B
+S1016,FEMALE,15.0,public,West,54.0,25.8,110.0,No,C
+S1017,FEMALE,,PRIVATE ,East,,24.2,32.0, no ,a
+S1018,Male,,Private,South,93.0,,63.0,No,
+S1019,F,17.0,Public,Central,-5.0,13.9,76.0,Yes,B
+S1020,male,18.0,PRIVATE ,North,,-3.0,110.0, no ,E
+S1021, female ,,,Central,,-3.0,47.0,Yes,F
+S1022,Male,15.0,,North,,,40.0,No,B
+S1023,FEMALE,16.0,,North,75.0,,51.0, no ,F
+S1024,FEMALE,19.0,PRIVATE ,East,-5.0,-3.0,-10.0,Yes,A
+S1025,Female,,Private,East,105.0,15.2,64.0,YES,C
+S1026, female ,,Private,East,89.0,,58.0,Yes,B
+S1027, female ,17.0,public,North,105.0,21.5,,Yes,a
+S1028,Male,19.0,PRIVATE ,Central,-5.0,,110.0, no ,A
+S1029,Female,16.0,PRIVATE ,South,105.0,-3.0,110.0,Yes,E
+S1030,Male,-1.0,,West,105.0,,-10.0,,C
+S1031,male,18.0,Private,East,,,,No,B
+S1032,Male,120.0,Private,South,105.0,-3.0,-10.0,Yes,D
+S1033,M,120.0,,East,67.0,-3.0,,Yes,B
+S1034,male,19.0,public,West,-5.0,,-10.0,,B
+S1035,FEMALE,120.0,public,West,66.0,21.3,110.0,Yes,F
+S1036,Female,-1.0,PRIVATE ,East,-5.0,,-10.0,,C
+S1037,F,18.0,PRIVATE ,Central,,20.3,-10.0,Yes,E
+S1038,FEMALE,19.0,Private,North,-5.0,-3.0,,YES,F
+S1039,FEMALE,16.0,Public,South,-5.0,6.7,38.0, no ,B
+S1040,F,,Private,South,105.0,-3.0,,Yes,B
+S1041,FEMALE,120.0,Private,West,,1.5,,,F
+S1042,F,,public,South,,,,YES,
+S1043, female ,18.0,public,Central,78.0,21.4,-10.0,Yes,C
+S1044,FEMALE,17.0,public,Central,105.0,21.2,, no ,a
+S1045,FEMALE,15.0,PRIVATE ,North,,,,YES,E
+S1046,F,120.0,Public,West,105.0,-3.0,,YES,a
+S1047,,17.0,Public,West,58.0,,92.0,No,
+S1048,Male,17.0,PRIVATE ,East,,-3.0,-10.0, no ,E
+S1049,,16.0,Public,North,51.0,-3.0,48.0,No,D
+S1050,male,15.0,PRIVATE ,East,105.0,14.2,110.0,YES,C
+S1051,male,16.0,PRIVATE ,South,69.0,-3.0,,Yes,D
+S1052, female ,16.0,,West,93.0,,-10.0,YES,B
+S1053,Male,-1.0,PRIVATE ,South,,-3.0,110.0,,E
+S1054,,,PRIVATE ,South,-5.0,9.7,-10.0, no ,a
+S1055,Male,-1.0,public,East,-5.0,5.5,-10.0,,E
+S1056,FEMALE,15.0,PRIVATE ,West,105.0,-3.0,110.0, no ,A
+S1057, female ,16.0,PRIVATE ,Central,,-3.0,-10.0,,F
+S1058,M,120.0,Private,East,,-3.0,49.0,Yes,C
+S1059,FEMALE,18.0,Public,South,,,-10.0,YES,D
+S1060,male,-1.0,Public,Central,69.0,21.2,55.0,YES,C
+S1061,Female,,Public,East,-5.0,-3.0,110.0, no ,B
+S1062,F,16.0,Private,Central,81.0,,110.0,YES,B
+S1063,Female,18.0,PRIVATE ,West,,,,YES,a
+S1064,Male,19.0,public,North,89.0,28.4,110.0,No,D
+S1065,Female,17.0,public,North,60.0,,,No,E
+S1066,,19.0,PRIVATE ,North,105.0,,110.0,,D
+S1067, female ,17.0,PRIVATE ,North,59.0,-3.0,-10.0, no ,E
+S1068, female ,120.0,public,Central,,,,YES,A
+S1069,FEMALE,16.0,Private,West,93.0,,54.0,,
+S1070,male,19.0,public,West,,-3.0,,YES,F
+S1071,male,16.0,PRIVATE ,North,,-3.0,71.0,YES,E
+S1072,Female,-1.0,PRIVATE ,North,,25.9,,No,F
+S1073,,,PRIVATE ,West,98.0,,-10.0,Yes,A
+S1074,male,18.0,PRIVATE ,North,69.0,16.6,48.0,No,
+S1075, female ,19.0,PRIVATE ,South,,29.4,110.0,,C
+S1076, female ,16.0,public,East,,,54.0,,
+S1077,,17.0,PRIVATE ,East,,,,No,D
+S1078,FEMALE,120.0,PRIVATE ,South,,,, no ,A
+S1079,M,17.0,PRIVATE ,South,,-3.0,110.0,Yes,
+S1080,M,19.0,public,West,,-3.0,,,A
+S1081,FEMALE,16.0,Public,North,-5.0,,, no ,C
+S1082,Male,19.0,PRIVATE ,South,-5.0,-3.0,-10.0,No,a
+S1083,male,17.0,PRIVATE ,Central,61.0,-3.0,110.0,No,D
+S1084, female ,,Public,West,-5.0,-3.0,110.0,YES,E
+S1085, female ,120.0,Private,West,-5.0,-3.0,81.0,,F
+S1086, female ,19.0,public,South,,,,,F
+S1087,FEMALE,18.0,Public,East,-5.0,,37.0, no ,A
+S1088,male,-1.0,Private,Central,-5.0,-3.0,110.0,YES,E
+S1089, female ,17.0,Public,South,-5.0,-3.0,,No,a
+S1090,Female,-1.0,public,East,,,,,a
+S1091,Female,-1.0,,South,105.0,,-10.0,Yes,
+S1092,F,19.0,Public,North,105.0,1.4,,No,C
+S1093,,120.0,Public,West,,,,,a
+S1094,Male,19.0,Public,East,-5.0,-3.0,-10.0,,F
+S1095,F,15.0,,North,105.0,-3.0,110.0,Yes,F
+S1096,male,18.0,Private,East,105.0,,110.0,No,A
+S1097,male,19.0,Public,East,-5.0,24.0,110.0,No,F
+S1098,male,15.0,Public,West,66.0,-3.0,87.0, no ,F
+S1099,,16.0,PRIVATE ,North,105.0,28.4,-10.0,Yes,
+S1100,F,120.0,public,Central,93.0,-3.0,29.0,No,B
+S1101, female ,17.0,PRIVATE ,Central,-5.0,,-10.0,,a
+S1102,Female,16.0,PRIVATE ,West,105.0,12.9,-10.0, no ,B
+S1103,F,-1.0,Public,North,-5.0,11.2,80.0,Yes,a
+S1104,M,16.0,Public,West,58.0,,-10.0,YES,a
+S1105, female ,15.0,Private,West,-5.0,,110.0,No,B
+S1106,M,-1.0,,East,-5.0,-3.0,91.0,Yes,C
+S1107, female ,19.0,Public,South,-5.0,0.2,,Yes,B
+S1108,F,18.0,,Central,,-3.0,-10.0,Yes,A
+S1109,male,17.0,PRIVATE ,Central,98.0,-3.0,, no ,a
+S1110,FEMALE,19.0,,East,98.0,10.4,,Yes,D
+S1111,Male,120.0,public,East,105.0,9.0,-10.0,Yes,A
+S1112,F,,Public,West,105.0,,-10.0,Yes,a
+S1113,,15.0,public,North,-5.0,,, no ,A
+S1114,male,-1.0,Public,South,,-3.0,, no ,a
+S1115,F,16.0,,Central,-5.0,6.6,29.0,No,F
+S1116,male,-1.0,Public,South,65.0,4.4,110.0, no ,
+S1117,M,,public,East,-5.0,4.5,,,A
+S1118,Female,-1.0,Public,North,,13.6,-10.0,,a
+S1119,Male,,Public,West,105.0,-3.0,110.0,Yes,F
+S1120,male,16.0,public,East,105.0,-3.0,110.0,YES,a
+S1121,M,120.0,public,North,93.0,,62.0,,a
+S1122, female ,19.0,public,West,105.0,,-10.0,No,B
+S1123,F,19.0,PRIVATE ,Central,-5.0,,87.0,YES,A
+S1124, female ,-1.0,Private,South,105.0,-3.0,110.0,Yes,E
+S1125,Male,16.0,Private,South,-5.0,,,No,C
+S1126,Male,,PRIVATE ,South,-5.0,20.3,-10.0,,D
+S1127,,19.0,public,West,-5.0,,,,a
+S1128,FEMALE,17.0,,North,105.0,26.2,-10.0,,B
+S1129,Female,19.0,Public,South,105.0,,, no ,F
+S1130,F,15.0,public,South,,15.1,69.0,Yes,F
+S1131,M,16.0,PRIVATE ,West,105.0,-3.0,110.0,,A
+S1132,Male,16.0,Public,East,105.0,,,No,E
+S1133,Male,16.0,Public,West,,,78.0,,A
+S1134,male,18.0,Private,North,,-3.0,,,F
+S1135,Male,16.0,Public,East,,-3.0,-10.0,Yes,F
+S1136,Female,18.0,Private,West,-5.0,-3.0,-10.0, no ,C
+S1137,Female,17.0,Public,East,,1.1,110.0,YES,a
+S1138, female ,,Public,East,105.0,8.6,-10.0, no ,a
+S1139,F,,Public,West,105.0,-3.0,-10.0,Yes,a
+S1140, female ,17.0,PRIVATE ,Central,70.0,,-10.0, no ,C
+S1141,M,,public,North,78.0,-3.0,,Yes,a
+S1142,male,-1.0,Private,North,105.0,,76.0,No,F
+S1143,F,-1.0,public,West,86.0,,-10.0,Yes,C
+S1144,F,-1.0,PRIVATE ,Central,-5.0,7.5,110.0, no ,B
+S1145, female ,19.0,Private,North,,,,No,B
+S1146,male,,Public,Central,,,-10.0,,E
+S1147,male,19.0,Private,South,105.0,,48.0,No,
+S1148,M,15.0,Public,East,-5.0,,36.0, no ,
+S1149,F,120.0,PRIVATE ,Central,86.0,-3.0,,YES,C
+S1150,male,17.0,Private,South,77.0,,-10.0,YES,D
+S1151, female ,-1.0,public,Central,-5.0,,110.0,,B
+S1152,male,17.0,Public,North,-5.0,,25.0,,E
+S1153,F,18.0,public,West,89.0,,-10.0,No,a
+S1154,,19.0,Private,East,54.0,-3.0,,,C
+S1155,M,-1.0,public,South,-5.0,29.3,67.0, no ,B
+S1156,,19.0,Private,South,105.0,-3.0,,YES,F
+S1157,male,18.0,Public,West,,-3.0,83.0,,
+S1158,FEMALE,18.0,public,Central,-5.0,-3.0,,Yes,B
+S1159,male,120.0,Public,Central,-5.0,-3.0,,,D
+S1160, female ,-1.0,Private,North,,,55.0, no ,F
+S1161,M,-1.0,Public,North,105.0,,71.0,No,F
+S1162,,,PRIVATE ,Central,105.0,,110.0,YES,F
+S1163, female ,,,East,80.0,,,Yes,
+S1164,FEMALE,19.0,Private,South,96.0,17.5,,Yes,B
+S1165,Male,18.0,,Central,-5.0,-3.0,, no ,A
+S1166,FEMALE,17.0,public,South,-5.0,-3.0,, no ,F
+S1167, female ,-1.0,Private,East,,5.8,-10.0,YES,D
+S1168,M,,Public,Central,-5.0,,-10.0,,a
+S1169,M,120.0,PRIVATE ,East,105.0,-3.0,-10.0, no ,D
+S1170, female ,18.0,Private,North,-5.0,,110.0,,D
+S1171,Male,18.0,Public,Central,,-3.0,110.0,No,a
+S1172,,,Public,North,105.0,-3.0,-10.0,,D
+S1173,male,15.0,Private,East,105.0,28.0,,Yes,A
+S1174,Female,19.0,Private,Central,-5.0,,, no ,E
+S1175,Female,18.0,Public,East,105.0,,110.0,YES,D
+S1176,F,17.0,Private,West,-5.0,,110.0,YES,D
+S1177, female ,15.0,,Central,105.0,-3.0,-10.0,Yes,E
+S1178,FEMALE,-1.0,Public,East,53.0,14.0,-10.0,YES,D
+S1179,male,18.0,,West,105.0,,,,D
+S1180,Female,18.0,Public,Central,,-3.0,29.0,,D
+S1181,male,17.0,Public,Central,,3.5,, no ,A
+S1182,male,,public,North,,13.7,, no ,E
+S1183,FEMALE,15.0,Public,West,87.0,-3.0,28.0,Yes,E
+S1184,male,120.0,PRIVATE ,West,105.0,,-10.0, no ,a
+S1185,male,16.0,Private,North,-5.0,,110.0,Yes,E
+S1186,F,,Private,East,,24.7,-10.0,No,B
+S1187,F,15.0,PRIVATE ,Central,89.0,7.2,32.0,Yes,D
+S1188,F,15.0,Private,Central,105.0,16.2,-10.0,YES,F
+S1189, female ,18.0,PRIVATE ,Central,105.0,-3.0,110.0, no ,A
+S1190,F,-1.0,PRIVATE ,South,-5.0,-3.0,-10.0,,
+S1191,FEMALE,18.0,PRIVATE ,Central,105.0,24.2,,,C
+S1192,FEMALE,120.0,Public,Central,105.0,9.9,-10.0,No,A
+S1193,F,19.0,PRIVATE ,South,93.0,26.2,110.0,YES,E
+S1194,FEMALE,15.0,PRIVATE ,South,62.0,-3.0,110.0,,F
+S1195,F,19.0,PRIVATE ,North,-5.0,-3.0,, no ,F
+S1196,M,18.0,public,Central,,1.4,38.0,,a
+S1197,male,19.0,,East,-5.0,,,YES,
+S1198,,,Private,Central,-5.0,,,Yes,A
+S1199,Male,16.0,Private,North,98.0,,49.0,No,
+S1200,Male,-1.0,Public,North,,19.8,,,E
+S1201,Male,19.0,,South,,24.2,33.0,No,D
+S1202,M,19.0,Private,East,,-3.0,110.0,Yes,A
+S1203,F,16.0,Public,West,,16.6,110.0, no ,F
+S1204,Male,16.0,public,North,105.0,,,Yes,E
+S1205,male,15.0,Public,East,70.0,,,No,D
+S1206,M,120.0,Public,North,105.0,,-10.0, no ,D
+S1207,M,16.0,PRIVATE ,West,,-3.0,-10.0,No,F
+S1208,F,120.0,Public,North,,,110.0,YES,C
+S1209,male,120.0,public,West,,9.5,31.0,YES,E
+S1210,male,16.0,Public,North,105.0,,,Yes,F
+S1211,M,16.0,,Central,74.0,-3.0,110.0,No,a
+S1212,male,17.0,PRIVATE ,East,-5.0,8.1,110.0, no ,E
+S1213,Female,,,Central,-5.0,,,No,
+S1214,male,16.0,public,West,69.0,-3.0,,YES,a
+S1215, female ,17.0,public,West,105.0,14.4,-10.0,,D
+S1216,F,-1.0,,North,,,110.0, no ,D
+S1217, female ,,public,South,94.0,-3.0,110.0,YES,C
+S1218,F,120.0,,Central,,-3.0,, no ,A
+S1219,Female,-1.0,,West,105.0,-3.0,41.0,YES,a
+S1220,Male,16.0,PRIVATE ,East,-5.0,,110.0, no ,
+S1221,M,17.0,Private,East,,-3.0,30.0,YES,F
+S1222,FEMALE,,public,North,,10.4,,YES,A
+S1223,Male,16.0,,South,71.0,20.3,110.0,YES,a
+S1224,FEMALE,,Public,Central,105.0,,,No,
+S1225,F,120.0,,South,105.0,,28.0,YES,F
+S1226,,18.0,,West,-5.0,-3.0,-10.0,,a
+S1227,M,16.0,Private,East,,,58.0,Yes,D
+S1228,Female,19.0,,South,-5.0,,,,a
+S1229,male,120.0,Private,East,105.0,-3.0,110.0, no ,A
+S1230,Male,-1.0,PRIVATE ,West,105.0,-3.0,, no ,
+S1231,male,,public,South,55.0,23.9,57.0,,E
+S1232,,17.0,public,Central,,16.5,93.0,YES,A
+S1233,FEMALE,,Public,West,77.0,,-10.0,YES,F
+S1234,,16.0,,West,105.0,,-10.0,No,C
+S1235,FEMALE,18.0,public,East,-5.0,,110.0,YES,E
+S1236,male,16.0,Private,South,,-3.0,110.0,YES,D
+S1237,,120.0,Public,West,-5.0,-3.0,77.0,,E
+S1238,,-1.0,public,North,-5.0,,,,a
+S1239,F,18.0,,West,,-3.0,110.0,YES,A
+S1240,Female,15.0,Public,West,,0.5,,No,C
+S1241,male,19.0,Private,North,67.0,-3.0,-10.0, no ,E
+S1242,F,18.0,Public,South,91.0,21.1,,,D
+S1243,Male,,Public,South,-5.0,-3.0,, no ,B
+S1244,Female,16.0,Private,North,-5.0,26.4,110.0,,A
+S1245,,17.0,Private,North,105.0,18.8,,Yes,C
+S1246,F,16.0,Public,South,,9.4,-10.0,,E
+S1247, female ,15.0,PRIVATE ,West,105.0,-3.0,110.0,Yes,D
+S1248,Female,,,West,83.0,-3.0,,YES,C
+S1249,Female,,PRIVATE ,Central,51.0,0.4,25.0,YES,a
+S1250,F,120.0,Private,Central,105.0,-3.0,110.0,YES,a
+S1251, female ,16.0,Public,West,,21.9,110.0,Yes,
+S1252, female ,15.0,Private,West,105.0,,37.0,YES,E
+S1253,M,17.0,PRIVATE ,East,-5.0,22.0,-10.0,,B
+S1254,Female,19.0,public,South,,15.3,110.0,YES,B
+S1255,FEMALE,16.0,PRIVATE ,East,97.0,1.3,51.0, no ,C
+S1256,Male,17.0,public,North,,6.7,-10.0,,F
+S1257,Male,16.0,PRIVATE ,East,105.0,24.1,71.0,YES,F
+S1258,,16.0,PRIVATE ,East,-5.0,,110.0,,
+S1259,FEMALE,18.0,Public,East,59.0,28.0,-10.0,Yes,a
+S1260,Female,19.0,Public,North,105.0,12.6,-10.0,No,a
+S1261,,-1.0,Public,Central,97.0,,,,A
+S1262,male,120.0,public,West,-5.0,-3.0,-10.0,YES,D
+S1263,FEMALE,16.0,public,West,58.0,4.7,,Yes,F
+S1264,,18.0,public,Central,,8.0,110.0,Yes,D
+S1265,male,-1.0,public,East,105.0,-3.0,85.0,No,A
+S1266,,120.0,Public,North,105.0,2.8,37.0,No,C
+S1267,F,18.0,Public,South,73.0,-3.0,29.0, no ,C
+S1268,M,16.0,PRIVATE ,West,57.0,28.3,,Yes,a
+S1269,male,120.0,Private,North,105.0,-3.0,,,D
+S1270,,19.0,PRIVATE ,South,,-3.0,110.0,,D
+S1271,F,15.0,PRIVATE ,East,-5.0,-3.0,-10.0,No,A
+S1272,FEMALE,-1.0,,South,-5.0,-3.0,-10.0,No,B
+S1273,FEMALE,18.0,public,South,67.0,22.9,,No,D
+S1274,M,-1.0,,South,87.0,-3.0,110.0, no ,E
+S1275,,17.0,,West,52.0,,48.0,Yes,F
+S1276,male,18.0,Private,Central,105.0,-3.0,27.0,No,B
+S1277,Female,-1.0,Private,South,,-3.0,-10.0, no ,
+S1278,male,-1.0,public,East,-5.0,,,No,C
+S1279,F,15.0,,North,99.0,-3.0,110.0, no ,C
+S1280,Female,-1.0,PRIVATE ,North,-5.0,29.5,-10.0,YES,D
+S1281,Female,18.0,PRIVATE ,West,-5.0,,20.0, no ,C
+S1282,,120.0,Private,West,-5.0,16.4,110.0,Yes,A
+S1283,Male,19.0,PRIVATE ,South,-5.0,28.5,110.0,Yes,B
+S1284,,-1.0,Private,North,95.0,,,Yes,F
+S1285,FEMALE,18.0,Public,West,-5.0,-3.0,50.0,,
+S1286,Male,17.0,Private,North,73.0,-3.0,,Yes,D
+S1287, female ,17.0,PRIVATE ,East,,-3.0,,Yes,a
+S1288,M,17.0,PRIVATE ,East,-5.0,5.6,,No,E
+S1289,male,15.0,,South,98.0,-3.0,,,A
+S1290,F,120.0,Public,West,,17.2,-10.0,Yes,C
+S1291,,16.0,PRIVATE ,North,105.0,29.2,36.0, no ,D
+S1292, female ,17.0,public,Central,70.0,,-10.0, no ,A
+S1293,Female,120.0,Public,Central,105.0,,94.0,Yes,E
+S1294,F,-1.0,Public,South,,,,YES,a
+S1295,F,17.0,PRIVATE ,East,,-3.0,50.0,YES,A
+S1296, female ,-1.0,Private,East,-5.0,,110.0, no ,F
+S1297,F,19.0,,East,88.0,5.6,,Yes,C
+S1298, female ,16.0,Private,South,,,92.0,No,A
+S1299,Male,18.0,public,West,79.0,,-10.0,,a
+S1300,Male,16.0,,Central,-5.0,-3.0,,YES,F
+S1301, female ,17.0,,South,97.0,-3.0,110.0,No,D
+S1302, female ,18.0,Private,South,,,,,A
+S1303, female ,18.0,PRIVATE ,East,-5.0,,, no ,E
+S1304,,18.0,,Central,,17.5,-10.0,,E
+S1305,Female,19.0,public,East,80.0,-3.0,-10.0,No,C
+S1306,Male,18.0,PRIVATE ,East,,,37.0,YES,a
+S1307,F,120.0,Private,Central,97.0,,-10.0, no ,F
+S1308,male,19.0,,South,105.0,-3.0,-10.0,YES,B
+S1309,M,18.0,,East,-5.0,-3.0,-10.0, no ,B
+S1310,Male,,PRIVATE ,Central,90.0,14.2,84.0,YES,a
+S1311,male,15.0,public,South,105.0,,110.0,Yes,
+S1312,male,-1.0,,South,70.0,-3.0,110.0, no ,B
+S1313,F,17.0,Public,Central,,-3.0,69.0,No,F
+S1314,M,15.0,Private,East,105.0,0.5,110.0,YES,C
+S1315,F,16.0,PRIVATE ,Central,-5.0,5.0,-10.0,,F
+S1316,male,120.0,Public,South,,10.8,,No,C
+S1317,Male,18.0,public,Central,105.0,,,,A
+S1318,Female,15.0,PRIVATE ,North,91.0,1.4,,,E
+S1319,male,,,Central,63.0,,-10.0,No,a
+S1320,Female,16.0,public,Central,68.0,-3.0,110.0,No,F
+S1321, female ,120.0,Private,North,60.0,16.4,-10.0,Yes,B
+S1322,,16.0,Private,West,59.0,23.4,-10.0,YES,E
+S1323,Male,,PRIVATE ,North,105.0,-3.0,-10.0,Yes,A
+S1324,male,15.0,Public,East,105.0,-3.0,-10.0,YES,C
+S1325,F,16.0,Private,North,,-3.0,,No,A
+S1326,Female,17.0,,West,,,110.0,YES,A
+S1327,,17.0,public,East,81.0,-3.0,25.0,Yes,D
+S1328,Female,-1.0,,Central,105.0,,110.0,Yes,A
+S1329,,17.0,public,East,105.0,-3.0,110.0,Yes,D
+S1330,F,120.0,PRIVATE ,West,65.0,,77.0,YES,B
+S1331,Male,,Public,Central,,,90.0,,E
+S1332,,18.0,,Central,-5.0,24.8,-10.0,,
+S1333,,-1.0,public,East,57.0,22.8,-10.0,,F
+S1334,Male,16.0,public,Central,,,72.0,No,D
+S1335,F,16.0,PRIVATE ,North,,24.7,63.0,,B
+S1336,,,,West,105.0,28.9,87.0,,
+S1337,male,17.0,,West,105.0,,-10.0, no ,D
+S1338,F,19.0,,Central,-5.0,13.6,,YES,F
+S1339,FEMALE,18.0,,Central,-5.0,,110.0,YES,B
+S1340,,-1.0,Public,Central,,,,Yes,A
+S1341,male,120.0,Private,North,53.0,6.0,-10.0,YES,D
+S1342,M,15.0,,West,78.0,,110.0,No,E
+S1343,F,15.0,Public,East,,,60.0,No,
+S1344,M,18.0,Private,North,105.0,23.3,,No,C
+S1345,F,16.0,,East,,-3.0,110.0,Yes,F
+S1346,male,,PRIVATE ,Central,105.0,,-10.0,,F
+S1347,M,16.0,PRIVATE ,Central,105.0,,110.0,,a
+S1348,M,16.0,Private,Central,105.0,-3.0,-10.0,,
+S1349,Female,15.0,Public,East,-5.0,,110.0, no ,B
+S1350, female ,120.0,PRIVATE ,North,-5.0,,,YES,D
+S1351,Female,-1.0,Public,South,105.0,,88.0,No,a
+S1352,FEMALE,16.0,PRIVATE ,East,,19.4,39.0,Yes,B
+S1353,Male,16.0,PRIVATE ,West,-5.0,,-10.0, no ,a
+S1354,M,120.0,,North,,,20.0,Yes,F
+S1355, female ,16.0,PRIVATE ,North,-5.0,-3.0,, no ,C
+S1356,male,18.0,public,East,,,110.0,Yes,C
+S1357,Male,16.0,public,South,,16.1,110.0, no ,C
+S1358,male,17.0,,West,-5.0,5.8,92.0,,B
+S1359,Female,19.0,public,South,66.0,,-10.0,No,B
+S1360,Female,19.0,,South,-5.0,-3.0,-10.0,,F
+S1361,F,-1.0,public,South,60.0,9.4,-10.0,YES,
+S1362,,,public,South,-5.0,14.6,42.0,,D
+S1363,Female,19.0,,Central,96.0,,100.0, no ,D
+S1364, female ,15.0,Private,Central,,19.6,,YES,C
+S1365,Female,,,South,-5.0,,110.0, no ,C
+S1366,male,17.0,Private,North,,28.2,,YES,F
+S1367,Male,18.0,PRIVATE ,North,105.0,-3.0,,Yes,F
+S1368, female ,16.0,PRIVATE ,East,-5.0,,,,B
+S1369,F,19.0,,North,,-3.0,,,C
+S1370,male,,Private,South,64.0,-3.0,110.0,YES,B
+S1371,F,18.0,,South,71.0,-3.0,110.0, no ,A
+S1372,Male,18.0,Public,South,105.0,,110.0,YES,C
+S1373,Male,120.0,PRIVATE ,South,-5.0,28.4,,No,a
+S1374,male,17.0,,Central,-5.0,,,Yes,D
+S1375,F,120.0,Private,Central,58.0,,,Yes,C
+S1376,Male,,PRIVATE ,Central,100.0,,36.0, no ,F
+S1377,F,15.0,PRIVATE ,South,,-3.0,64.0,YES,
+S1378,Female,18.0,,North,,7.7,20.0, no ,D
+S1379,F,-1.0,public,Central,73.0,,-10.0, no ,F
+S1380,F,19.0,public,Central,105.0,,110.0,,
+S1381, female ,19.0,Private,West,-5.0,-3.0,37.0,No,B
+S1382,F,18.0,PRIVATE ,North,-5.0,,110.0,Yes,C
+S1383,F,,PRIVATE ,West,55.0,-3.0,30.0,,E
+S1384,male,15.0,Private,North,,13.2,-10.0,,D
+S1385,Male,17.0,PRIVATE ,East,105.0,19.7,-10.0, no ,a
+S1386,Male,18.0,public,East,97.0,,-10.0,No,D
+S1387,F,,,North,86.0,-3.0,84.0,,E
+S1388,Female,-1.0,PRIVATE ,Central,-5.0,,, no ,D
+S1389,,-1.0,public,North,,26.9,81.0, no ,D
+S1390,M,18.0,public,North,-5.0,15.5,110.0, no ,F
+S1391,male,16.0,Private,West,-5.0,,110.0,No,D
+S1392, female ,18.0,Private,North,105.0,6.1,-10.0,Yes,B
+S1393,Male,,PRIVATE ,Central,98.0,-3.0,-10.0,YES,
+S1394, female ,17.0,PRIVATE ,Central,105.0,22.5,,Yes,F
+S1395,male,120.0,Public,South,79.0,-3.0,60.0, no ,B
+S1396,M,-1.0,PRIVATE ,Central,-5.0,-3.0,-10.0,YES,F
+S1397,,17.0,public,West,105.0,-3.0,,No,C
+S1398,Female,18.0,Private,South,-5.0,,,No,
+S1399,male,15.0,PRIVATE ,East,,,-10.0,YES,A
+S1400,Female,120.0,PRIVATE ,East,105.0,-3.0,80.0,YES,F
+S1401, female ,-1.0,,Central,72.0,-3.0,110.0,,C
+S1402,M,19.0,,East,,-3.0,, no ,C
+S1403,M,17.0,public,South,,25.5,110.0,YES,F
+S1404, female ,19.0,PRIVATE ,South,,-3.0,,No,A
+S1405,FEMALE,17.0,Private,West,-5.0,,110.0,Yes,B
+S1406,,16.0,Public,East,85.0,-3.0,87.0,,C
+S1407,F,16.0,Private,Central,105.0,-3.0,110.0,No,A
+S1408,M,15.0,Private,Central,,,,No,
+S1409, female ,120.0,public,West,,16.2,-10.0,YES,C
+S1410,Male,19.0,PRIVATE ,West,105.0,-3.0,88.0,YES,A
+S1411, female ,120.0,PRIVATE ,Central,105.0,,110.0, no ,a
+S1412,male,18.0,PRIVATE ,South,,24.9,53.0,,E
+S1413, female ,19.0,Public,West,105.0,25.6,-10.0,,
+S1414,,19.0,Private,North,-5.0,0.6,88.0,YES,E
+S1415,,17.0,Private,East,96.0,7.0,, no ,E
+S1416,M,,PRIVATE ,North,79.0,9.9,-10.0,,
+S1417,FEMALE,17.0,PRIVATE ,South,,24.8,,Yes,D
+S1418,Female,,Private,North,105.0,,-10.0,,B
+S1419,,19.0,Private,West,-5.0,6.0,47.0,YES,A
+S1420, female ,17.0,,West,87.0,11.9,21.0,,C
+S1421,Female,-1.0,Public,North,105.0,,-10.0,YES,C
+S1422,male,16.0,Private,North,105.0,,, no ,F
+S1423, female ,17.0,Private,Central,,,,No,F
+S1424,,-1.0,public,Central,105.0,2.1,-10.0,YES,
+S1425,F,15.0,public,North,105.0,,110.0,,a
+S1426,,18.0,Public,North,105.0,-3.0,-10.0,,B
+S1427,male,15.0,Public,Central,61.0,-3.0,44.0, no ,
+S1428,Male,19.0,PRIVATE ,North,105.0,18.2,110.0, no ,A
+S1429,F,-1.0,Public,East,73.0,-3.0,87.0,Yes,D
+S1430,Female,16.0,,South,105.0,15.9,110.0,,a
+S1431,M,16.0,Private,Central,,-3.0,110.0, no ,F
+S1432,,17.0,PRIVATE ,East,-5.0,-3.0,,,D
+S1433,F,18.0,Public,North,-5.0,-3.0,,YES,A
+S1434, female ,17.0,public,Central,-5.0,29.5,60.0,,C
+S1435,Male,16.0,Private,East,-5.0,-3.0,110.0,YES,B
+S1436,FEMALE,120.0,,North,96.0,-3.0,,,E
+S1437,F,15.0,PRIVATE ,North,55.0,-3.0,,No,A
+S1438,Male,120.0,,South,69.0,,-10.0,No,A
+S1439,,120.0,Private,East,98.0,-3.0,110.0,Yes,
+S1440,F,15.0,PRIVATE ,Central,66.0,-3.0,110.0,No,
+S1441,FEMALE,120.0,,North,105.0,-3.0,-10.0,Yes,a
+S1442,M,120.0,Private,East,105.0,,-10.0,,
+S1443,,17.0,Public,North,105.0,-3.0,39.0,No,C
+S1444,Male,19.0,Private,Central,71.0,-3.0,-10.0,No,D
+S1445,,19.0,,Central,105.0,,,Yes,E
+S1446,Male,17.0,PRIVATE ,North,105.0,,54.0,Yes,a
+S1447,M,19.0,PRIVATE ,Central,56.0,,110.0,Yes,F
+S1448,Female,,Public,South,105.0,-3.0,91.0,,E
+S1449,,-1.0,public,South,105.0,,-10.0,,E
+S1450, female ,15.0,public,West,74.0,-3.0,110.0,No,B
+S1451,FEMALE,120.0,PRIVATE ,Central,105.0,-3.0,-10.0,No,D
+S1452,FEMALE,17.0,Private,Central,-5.0,,,No,F
+S1453,Female,16.0,PRIVATE ,West,-5.0,25.2,-10.0,YES,
+S1454,male,19.0,,Central,105.0,3.2,-10.0,,D
+S1455,FEMALE,18.0,,Central,93.0,,110.0, no ,F
+S1456,F,17.0,PRIVATE ,North,,4.1,48.0,YES,a
+S1457,FEMALE,18.0,public,West,105.0,-3.0,,No,a
+S1458,Male,120.0,,North,,-3.0,98.0, no ,
+S1459,FEMALE,15.0,,North,,29.5,,No,E
+S1460,F,,,South,-5.0,-3.0,57.0, no ,
+S1461,Female,16.0,Private,West,105.0,-3.0,77.0,,D
+S1462,Female,,Public,North,-5.0,,40.0, no ,F
+S1463,F,16.0,public,Central,105.0,-3.0,110.0,No,C
+S1464,male,17.0,Private,North,99.0,-3.0,-10.0,No,D
+S1465, female ,15.0,,West,,-3.0,89.0,No,D
+S1466,,,,East,,,110.0,,D
+S1467,male,15.0,,Central,59.0,19.6,38.0,YES,F
+S1468,Male,16.0,PRIVATE ,Central,,29.8,110.0,YES,A
+S1469, female ,16.0,public,West,-5.0,26.9,74.0,No,B
+S1470,M,19.0,Public,Central,,,46.0,,B
+S1471, female ,,Private,Central,-5.0,,-10.0,,
+S1472,,,Public,West,105.0,21.3,20.0,Yes,D
+S1473,F,120.0,Private,East,-5.0,,47.0,YES,B
+S1474, female ,19.0,PRIVATE ,Central,-5.0,23.0,-10.0,,A
+S1475,FEMALE,17.0,Private,West,-5.0,-3.0,80.0,No,
+S1476,,-1.0,,East,,27.8,-10.0,,A
+S1477,M,18.0,public,West,-5.0,2.0,55.0,,C
+S1478,male,120.0,public,West,88.0,-3.0,60.0,Yes,
+S1479,M,18.0,public,North,-5.0,-3.0,42.0,No,B
+S1480,Male,,public,South,105.0,-3.0,-10.0,Yes,C
+S1481,Male,18.0,public,North,,,34.0,,B
+S1482,,-1.0,,East,52.0,,59.0,No,F
+S1483,FEMALE,18.0,Private,South,-5.0,-3.0,-10.0,YES,B
+S1484,Female,15.0,,South,-5.0,-3.0,-10.0,No,B
+S1485,M,19.0,Public,West,,1.5,80.0,Yes,B
+S1486,F,120.0,,North,,-3.0,110.0, no ,C
+S1487,,16.0,Private,South,,,,No,E
+S1488,F,-1.0,Public,North,-5.0,-3.0,, no ,B
+S1489,,-1.0,,North,105.0,-3.0,110.0, no ,B
+S1490,Female,-1.0,Private,Central,-5.0,-3.0,,No,C
+S1491,F,,PRIVATE ,Central,-5.0,,,YES,D
+S1492,Female,17.0,,North,,,-10.0, no ,C
+S1493,F,19.0,PRIVATE ,North,54.0,,-10.0,Yes,D
+S1494,Male,17.0,PRIVATE ,Central,105.0,-3.0,-10.0,,
+S1495,FEMALE,18.0,public,North,-5.0,,,,A
+S1496,male,120.0,,East,68.0,,26.0,Yes,E
+S1497,FEMALE,15.0,PRIVATE ,West,,,,,D
+S1498,,17.0,public,South,105.0,-3.0,110.0,No,A
+S1499,Male,16.0,PRIVATE ,West,,19.7,110.0,,a
+S1500,,17.0,Private,South,,-3.0,-10.0, no ,A
+S1501,FEMALE,,Public,North,-5.0,,-10.0,,
+S1502,Female,-1.0,PRIVATE ,Central,,28.9,-10.0,Yes,B
+S1503,,18.0,,North,90.0,,-10.0,YES,A
+S1504,,,public,East,,-3.0,-10.0,No,A
+S1505, female ,19.0,,North,,,-10.0,YES,
+S1506,male,16.0,,East,82.0,-3.0,110.0,YES,E
+S1507,Female,15.0,public,South,105.0,,,YES,D
+S1508,male,,PRIVATE ,West,83.0,10.3,110.0, no ,D
+S1509,male,,Private,West,-5.0,-3.0,34.0, no ,
+S1510,,19.0,public,South,105.0,,,,a
+S1511, female ,15.0,,East,,,25.0, no ,E
+S1512, female ,-1.0,Private,Central,67.0,,,No,F
+S1513,M,17.0,Public,Central,85.0,20.2,,Yes,
+S1514,FEMALE,-1.0,Public,Central,-5.0,7.6,23.0,No,B
+S1515,Female,16.0,Public,South,105.0,,110.0,YES,E
+S1516,Female,,public,South,,-3.0,-10.0,Yes,E
+S1517,F,15.0,PRIVATE ,North,-5.0,-3.0,110.0, no ,D
+S1518,male,120.0,,North,,,110.0, no ,E
+S1519,Male,16.0,PRIVATE ,South,54.0,-3.0,77.0,Yes,A
+S1520, female ,120.0,PRIVATE ,West,-5.0,,, no ,B
+S1521,Male,18.0,public,West,,,-10.0,Yes,B
+S1522,M,-1.0,,North,,-3.0,110.0, no ,D
+S1523,F,19.0,Private,North,-5.0,,110.0,No,A
+S1524,,18.0,,West,74.0,,,Yes,A
+S1525,Male,-1.0,,South,71.0,12.2,,,D
+S1526,Male,16.0,Private,South,105.0,14.7,80.0,Yes,C
+S1527, female ,15.0,Public,North,100.0,13.7,95.0, no ,D
+S1528,FEMALE,16.0,Public,Central,-5.0,,-10.0,,C
+S1529,FEMALE,-1.0,public,South,98.0,-3.0,28.0, no ,C
+S1530,male,-1.0,,West,105.0,27.8,37.0,No,A
+S1531,Female,,PRIVATE ,West,50.0,5.4,-10.0,No,D
+S1532, female ,17.0,,South,,12.4,98.0, no ,B
+S1533,M,19.0,,East,76.0,16.7,35.0,,D
+S1534,FEMALE,,Private,South,67.0,5.8,,Yes,A
+S1535, female ,-1.0,Public,North,,,78.0,,C
+S1536,Male,17.0,PRIVATE ,South,81.0,2.1,-10.0,YES,D
+S1537,M,16.0,Private,North,64.0,-3.0,, no ,
+S1538,F,15.0,public,South,105.0,-3.0,, no ,D
+S1539, female ,-1.0,public,South,-5.0,,92.0,Yes,
+S1540,F,,,South,-5.0,-3.0,110.0,,D
+S1541,F,16.0,PRIVATE ,East,,25.9,,Yes,a
+S1542,FEMALE,18.0,PRIVATE ,North,,,39.0,Yes,
+S1543,F,15.0,PRIVATE ,South,,,,Yes,A
+S1544,FEMALE,120.0,PRIVATE ,East,-5.0,,31.0,No,
+S1545,,15.0,PRIVATE ,North,105.0,-3.0,-10.0,Yes,a
+S1546,Male,-1.0,Public,Central,,,110.0,YES,A
+S1547,Male,-1.0,public,South,,,-10.0,,B
+S1548,male,18.0,Private,East,105.0,,110.0,YES,E
+S1549, female ,120.0,PRIVATE ,Central,53.0,-3.0,82.0,,E
+S1550,M,,PRIVATE ,South,93.0,-3.0,31.0,YES,B
+S1551,male,16.0,,North,67.0,-3.0,110.0,YES,a
+S1552,,17.0,Private,North,,,-10.0,Yes,D
+S1553,F,-1.0,PRIVATE ,East,-5.0,-3.0,,,C
+S1554,male,19.0,Private,East,-5.0,-3.0,56.0,YES,
+S1555,male,17.0,Private,North,-5.0,5.5,110.0,Yes,F
+S1556,,17.0,public,South,-5.0,,-10.0,YES,
+S1557, female ,17.0,public,South,57.0,-3.0,,Yes,F
+S1558,,19.0,Public,West,105.0,,-10.0,Yes,C
+S1559, female ,16.0,Public,East,,18.5,-10.0,Yes,D
+S1560, female ,18.0,Private,West,62.0,-3.0,,YES,A
+S1561,F,-1.0,public,East,,-3.0,-10.0,YES,
+S1562,FEMALE,16.0,Private,West,,-3.0,-10.0, no ,C
+S1563,male,16.0,,West,-5.0,,62.0,Yes,A
+S1564, female ,120.0,Private,South,105.0,,110.0, no ,E
+S1565,Male,,Public,North,-5.0,,110.0,No,E
+S1566,,19.0,Public,East,-5.0,-3.0,51.0, no ,B
+S1567,,-1.0,public,Central,,,80.0,,A
+S1568,male,19.0,Private,North,87.0,-3.0,-10.0,YES,F
+S1569,M,120.0,Private,North,-5.0,,110.0,,C
+S1570,M,-1.0,,Central,-5.0,,66.0,YES,C
+S1571,male,15.0,Private,North,-5.0,-3.0,-10.0,No,C
+S1572,FEMALE,18.0,Public,West,100.0,12.5,110.0,YES,E
+S1573,male,-1.0,Private,South,-5.0,-3.0,23.0,No,D
+S1574,male,19.0,Public,West,105.0,-3.0,34.0, no ,A
+S1575,Female,18.0,public,North,52.0,-3.0,25.0,Yes,B
+S1576,FEMALE,18.0,public,South,-5.0,0.9,-10.0,,D
+S1577,Female,16.0,Private,Central,87.0,,-10.0,Yes,B
+S1578,,18.0,PRIVATE ,West,105.0,13.2,-10.0,No,D
+S1579,Female,120.0,PRIVATE ,East,-5.0,3.7,110.0,YES,A
+S1580,M,16.0,PRIVATE ,South,81.0,-3.0,-10.0,,a
+S1581,F,19.0,Public,West,62.0,-3.0,110.0,Yes,a
+S1582,Female,,Private,North,105.0,,95.0,YES,D
+S1583,FEMALE,-1.0,,Central,,-3.0,-10.0,YES,a
+S1584,,-1.0,PRIVATE ,North,,,110.0,Yes,E
+S1585,,,PRIVATE ,North,105.0,,26.0,No,a
+S1586,male,-1.0,PRIVATE ,South,69.0,,,YES,
+S1587, female ,,Public,West,-5.0,,89.0,Yes,a
+S1588,M,,Private,West,,13.8,-10.0, no ,C
+S1589,F,19.0,PRIVATE ,Central,81.0,-3.0,,No,A
+S1590, female ,120.0,Public,North,,-3.0,-10.0,,A
+S1591,M,17.0,Public,West,72.0,,,YES,F
+S1592,M,120.0,Public,East,105.0,,59.0,Yes,F
+S1593,Male,17.0,public,North,-5.0,,, no ,A
+S1594,F,-1.0,Private,East,,9.7,82.0, no ,F
+S1595, female ,17.0,public,East,,,110.0,Yes,E
+S1596,FEMALE,120.0,public,North,89.0,,-10.0,,
+S1597,FEMALE,120.0,PRIVATE ,Central,72.0,-3.0,-10.0,YES,D
+S1598,F,120.0,,South,,,43.0,,
+S1599,,18.0,,South,,,100.0,YES,
+S1600,FEMALE,17.0,Private,West,-5.0,-3.0,60.0,YES,E
+S1601, female ,17.0,Public,South,105.0,12.2,110.0,YES,
+S1602,F,,public,East,77.0,-3.0,37.0,,C
+S1603,,15.0,Public,West,100.0,1.7,-10.0,YES,B
+S1604,male,120.0,PRIVATE ,North,65.0,,-10.0,No,B
+S1605,M,-1.0,Private,South,,,,Yes,C
+S1606, female ,18.0,,East,,,,Yes,F
+S1607,,120.0,public,East,105.0,28.9,,Yes,A
+S1608,FEMALE,15.0,,South,,,66.0, no ,a
+S1609,F,15.0,Private,West,-5.0,2.7,110.0,YES,a
+S1610, female ,15.0,Public,South,,-3.0,,YES,B
+S1611,F,-1.0,PRIVATE ,South,-5.0,13.6,110.0,Yes,a
+S1612, female ,18.0,,West,70.0,3.3,110.0,YES,
+S1613,male,,Public,West,105.0,-3.0,110.0,YES,C
+S1614,F,120.0,Public,West,105.0,0.6,110.0,No,E
+S1615,Male,17.0,Private,Central,,18.0,-10.0,Yes,A
+S1616,,120.0,public,East,,,110.0, no ,a
+S1617,F,17.0,Private,West,105.0,-3.0,,No,A
+S1618, female ,19.0,Public,North,,-3.0,, no ,C
+S1619,F,-1.0,Public,North,105.0,,-10.0,,A
+S1620,M,15.0,Public,East,,,96.0,,a
+S1621,F,19.0,public,South,-5.0,,110.0,,
+S1622,,-1.0,public,North,58.0,,110.0,YES,A
+S1623,,17.0,,East,-5.0,-3.0,-10.0, no ,C
+S1624,,-1.0,Private,South,105.0,,76.0,Yes,D
+S1625,Male,17.0,PRIVATE ,North,-5.0,-3.0,75.0, no ,F
+S1626,,,Public,South,81.0,25.4,-10.0,YES,C
+S1627, female ,17.0,PRIVATE ,North,105.0,17.5,110.0,No,
+S1628,M,16.0,public,Central,-5.0,,,Yes,F
+S1629,Male,17.0,public,Central,,,,Yes,F
+S1630,,15.0,Public,North,105.0,6.3,-10.0,,a
+S1631,F,16.0,Private,South,105.0,-3.0,31.0, no ,a
+S1632,male,19.0,public,North,-5.0,-3.0,110.0,YES,D
+S1633,,,PRIVATE ,East,,,74.0,,C
+S1634,F,120.0,PRIVATE ,Central,55.0,-3.0,110.0,,B
+S1635,,19.0,Private,East,77.0,-3.0,110.0,No,a
+S1636,Male,19.0,PRIVATE ,North,85.0,,, no ,E
+S1637, female ,-1.0,Private,South,87.0,23.1,, no ,A
+S1638,F,16.0,,East,-5.0,,,YES,C
+S1639,male,18.0,Public,West,-5.0,26.1,75.0,Yes,A
+S1640,,17.0,public,Central,,,,,F
+S1641, female ,120.0,Private,North,105.0,4.1,34.0,No,
+S1642,FEMALE,17.0,PRIVATE ,North,105.0,-3.0,,Yes,C
+S1643,,17.0,Private,East,,-3.0,110.0,,a
+S1644,M,15.0,PRIVATE ,Central,50.0,,,,E
+S1645,,15.0,Private,North,,,,,A
+S1646,M,120.0,Public,West,85.0,,,,F
+S1647,F,,PRIVATE ,South,105.0,8.6,-10.0,,D
+S1648,,-1.0,PRIVATE ,South,-5.0,-3.0,-10.0,,D
+S1649,Female,19.0,Public,West,,3.9,, no ,E
+S1650,FEMALE,18.0,Private,South,85.0,-3.0,-10.0,,A
+S1651,M,16.0,PRIVATE ,East,77.0,18.5,110.0,YES,F
+S1652, female ,15.0,Public,Central,59.0,-3.0,78.0,,B
+S1653,Female,15.0,PRIVATE ,Central,60.0,-3.0,-10.0, no ,B
+S1654,M,17.0,Public,South,105.0,3.7,, no ,F
+S1655,male,19.0,Private,Central,-5.0,-3.0,110.0, no ,D
+S1656,F,17.0,PRIVATE ,South,,,66.0,Yes,B
+S1657,M,16.0,PRIVATE ,North,,29.5,75.0,No,A
+S1658,F,19.0,public,Central,-5.0,-3.0,64.0,,C
+S1659,,120.0,public,West,105.0,,,No,E
+S1660,Male,16.0,Private,North,-5.0,,-10.0,,E
+S1661,male,-1.0,Private,East,51.0,,-10.0, no ,B
+S1662,M,15.0,public,Central,-5.0,,,Yes,
+S1663,FEMALE,-1.0,PRIVATE ,Central,105.0,-3.0,110.0,No,B
+S1664,FEMALE,-1.0,Public,North,-5.0,13.6,,Yes,a
+S1665,,17.0,,Central,,,,,a
+S1666,,19.0,Private,South,,,,,C
+S1667,,,Private,Central,58.0,-3.0,80.0,YES,B
+S1668,Female,120.0,Public,East,-5.0,17.2,110.0,YES,F
+S1669, female ,19.0,Public,East,81.0,23.7,,YES,D
+S1670,,17.0,PRIVATE ,Central,50.0,16.4,,YES,
+S1671,F,-1.0,PRIVATE ,South,105.0,,,YES,B
+S1672,F,120.0,Public,South,,10.2,-10.0,Yes,E
+S1673,Female,16.0,,North,62.0,,,Yes,C
+S1674, female ,15.0,Public,Central,105.0,,,,F
+S1675,Male,120.0,,East,81.0,10.2,73.0, no ,E
+S1676,Female,16.0,Private,East,105.0,8.6,52.0, no ,C
+S1677,M,15.0,public,South,61.0,-3.0,69.0, no ,F
+S1678,F,19.0,PRIVATE ,Central,57.0,,110.0,,a
+S1679, female ,16.0,Public,West,-5.0,-3.0,,No,A
+S1680,Female,19.0,,South,105.0,-3.0,77.0,No,F
+S1681,FEMALE,17.0,Public,West,,,77.0,,E
+S1682,Male,17.0,Private,Central,,-3.0,-10.0,,E
+S1683,male,15.0,,East,97.0,-3.0,110.0, no ,D
+S1684,M,-1.0,Private,East,-5.0,,-10.0,YES,D
+S1685,M,,Public,North,105.0,19.4,,No,a
+S1686,F,,PRIVATE ,North,84.0,,29.0,YES,a
+S1687,F,-1.0,Public,South,61.0,-3.0,,Yes,E
+S1688,FEMALE,-1.0,public,North,-5.0,24.3,,YES,
+S1689,Male,18.0,Private,Central,,-3.0,,No,C
+S1690,male,16.0,Private,North,97.0,,-10.0,,E
+S1691,Male,,public,North,77.0,-3.0,,,
+S1692,M,,PRIVATE ,Central,83.0,26.5,-10.0, no ,F
+S1693,F,15.0,PRIVATE ,North,-5.0,,110.0,No,D
+S1694,M,17.0,PRIVATE ,North,69.0,18.8,,,F
+S1695,FEMALE,19.0,,South,,-3.0,-10.0,Yes,
+S1696,,16.0,public,North,87.0,2.6,,No,A
+S1697,Male,,public,West,,,27.0, no ,B
+S1698,FEMALE,120.0,public,North,88.0,-3.0,74.0, no ,F
+S1699,Female,18.0,,South,56.0,17.9,110.0,,E
+S1700,F,-1.0,Private,East,,5.6,25.0,,a
+S1701, female ,-1.0,public,East,105.0,-3.0,-10.0,Yes,C
+S1702,FEMALE,15.0,Public,East,82.0,12.7,110.0,No,
+S1703,M,,Public,West,-5.0,-3.0,110.0,Yes,
+S1704,Male,18.0,Private,West,105.0,-3.0,110.0,YES,a
+S1705,F,18.0,,North,61.0,10.9,65.0,No,E
+S1706,FEMALE,,public,South,-5.0,1.3,110.0,No,E
+S1707,M,17.0,Public,North,105.0,5.4,-10.0,No,a
+S1708,M,16.0,,Central,-5.0,-3.0,110.0, no ,B
+S1709,male,16.0,,West,105.0,-3.0,-10.0,No,A
+S1710, female ,18.0,Private,Central,105.0,9.8,-10.0,,
+S1711,Female,18.0,,West,,,110.0,,F
+S1712,,,PRIVATE ,East,-5.0,,,,a
+S1713,FEMALE,15.0,public,West,105.0,13.6,110.0, no ,C
+S1714, female ,-1.0,,East,85.0,4.0,,No,A
+S1715,M,,public,East,,-3.0,, no ,A
+S1716,,17.0,,Central,-5.0,-3.0,-10.0,,B
+S1717,FEMALE,19.0,public,South,56.0,2.1,110.0,YES,E
+S1718, female ,19.0,Public,East,105.0,,-10.0,YES,F
+S1719,F,120.0,Private,South,87.0,,,No,
+S1720,,18.0,PRIVATE ,West,,10.2,110.0,No,
+S1721,Male,,PRIVATE ,East,105.0,17.3,59.0,YES,D
+S1722,F,120.0,public,Central,,,-10.0,Yes,A
+S1723,male,17.0,,West,,29.4,70.0,No,
+S1724,M,16.0,Public,Central,,-3.0,110.0,No,A
+S1725,Male,,Private,East,105.0,-3.0,110.0,,B
+S1726,Male,,Public,South,73.0,-3.0,110.0,,a
+S1727,Female,,PRIVATE ,South,105.0,3.9,,,E
+S1728,,18.0,PRIVATE ,Central,105.0,0.2,77.0,No,F
+S1729,,,public,West,79.0,-3.0,-10.0,,C
+S1730,FEMALE,120.0,PRIVATE ,North,,,43.0,No,C
+S1731, female ,19.0,PRIVATE ,Central,92.0,,,Yes,F
+S1732,Female,16.0,,North,-5.0,12.3,110.0, no ,A
+S1733,,16.0,Public,East,-5.0,22.4,70.0,Yes,C
+S1734,,-1.0,Private,West,,,,YES,C
+S1735,Male,17.0,Private,North,88.0,5.3,,Yes,E
+S1736,,17.0,PRIVATE ,North,105.0,6.5,110.0,,B
+S1737, female ,120.0,Private,East,78.0,17.9,110.0,No,D
+S1738,Male,16.0,Private,North,76.0,-3.0,44.0,No,C
+S1739,F,15.0,,South,82.0,-3.0,110.0,,a
+S1740,Female,120.0,PRIVATE ,East,105.0,-3.0,42.0,Yes,a
+S1741,,18.0,Public,North,64.0,-3.0,-10.0,No,a
+S1742,,19.0,PRIVATE ,South,105.0,7.6,-10.0,YES,C
+S1743,,-1.0,,South,-5.0,,,,A
+S1744,Male,18.0,,North,89.0,,110.0,Yes,C
+S1745,,-1.0,,West,105.0,4.6,110.0,YES,C
+S1746,M,19.0,Private,East,91.0,-3.0,56.0,YES,D
+S1747,Male,18.0,,East,105.0,,,No,
+S1748,Female,15.0,Private,North,81.0,28.6,110.0,No,D
+S1749,Female,18.0,PRIVATE ,South,,,110.0,,D
+S1750, female ,19.0,Public,East,,29.0,, no ,a
+S1751,,17.0,PRIVATE ,North,,,110.0, no ,a
+S1752, female ,16.0,PRIVATE ,East,105.0,16.6,, no ,E
+S1753,,120.0,Private,North,-5.0,-3.0,110.0,Yes,F
+S1754,F,,public,Central,,-3.0,,Yes,a
+S1755,Female,15.0,,West,105.0,-3.0,-10.0,YES,A
+S1756,F,120.0,Private,East,105.0,7.3,66.0,,
+S1757, female ,17.0,,North,105.0,0.4,,,D
+S1758,male,120.0,,East,-5.0,,, no ,B
+S1759,M,16.0,Public,South,-5.0,,-10.0, no ,A
+S1760,Female,16.0,Private,South,,,,YES,C
+S1761,FEMALE,17.0,Private,South,105.0,15.1,110.0,Yes,C
+S1762, female ,18.0,Public,East,,,110.0,Yes,a
+S1763, female ,16.0,Public,North,-5.0,0.9,,Yes,E
+S1764,Male,15.0,PRIVATE ,West,105.0,15.7,-10.0,YES,a
+S1765,M,-1.0,PRIVATE ,Central,-5.0,30.0,,Yes,F
+S1766,Female,-1.0,,North,,-3.0,37.0,,E
+S1767,M,18.0,public,North,,,44.0,YES,A
+S1768,,-1.0,PRIVATE ,West,,,-10.0,Yes,a
+S1769,FEMALE,19.0,Private,West,105.0,,84.0,Yes,E
+S1770,male,,Private,South,78.0,,110.0,Yes,B
+S1771,Male,120.0,PRIVATE ,North,-5.0,-3.0,-10.0,No,
+S1772,M,16.0,Private,South,64.0,-3.0,,YES,B
+S1773,Female,19.0,,East,57.0,,44.0,No,F
+S1774,Male,120.0,public,East,69.0,17.7,,No,D
+S1775,F,16.0,PRIVATE ,South,,-3.0,,,E
+S1776,Male,17.0,,West,-5.0,,-10.0,No,
+S1777,F,19.0,Public,South,-5.0,,110.0, no ,a
+S1778,male,19.0,PRIVATE ,West,,,-10.0,Yes,E
+S1779,FEMALE,19.0,public,West,,-3.0,94.0,No,C
+S1780,,,public,Central,105.0,,45.0,Yes,C
+S1781,F,120.0,Private,North,105.0,27.8,,Yes,F
+S1782,male,120.0,PRIVATE ,East,,7.4,,,C
+S1783,Female,120.0,PRIVATE ,East,,,-10.0,Yes,B
+S1784,Female,16.0,,Central,,,48.0,,
+S1785,Female,19.0,,South,105.0,,-10.0,Yes,F
+S1786,male,16.0,Public,Central,75.0,,,,B
+S1787,Female,18.0,Public,South,105.0,-3.0,60.0,,D
+S1788,Female,17.0,,East,-5.0,25.5,30.0,YES,C
+S1789,Male,120.0,Private,Central,-5.0,,, no ,F
+S1790,FEMALE,-1.0,Private,South,94.0,19.9,50.0,YES,D
+S1791,FEMALE,17.0,Public,Central,-5.0,,,YES,E
+S1792,male,120.0,,South,,-3.0,110.0,Yes,E
+S1793,M,18.0,PRIVATE ,North,105.0,12.6,,,D
+S1794, female ,16.0,Public,East,57.0,-3.0,-10.0,YES,E
+S1795,FEMALE,17.0,Public,South,67.0,2.9,68.0,,E
+S1796,Female,,,North,-5.0,-3.0,-10.0,Yes,C
+S1797,F,-1.0,PRIVATE ,Central,-5.0,,,No,E
+S1798,male,15.0,public,South,105.0,,54.0,,a
+S1799,male,,PRIVATE ,Central,-5.0,,-10.0,No,E
+S1800, female ,16.0,Private,North,-5.0,,30.0,No,A
+S1801, female ,16.0,PRIVATE ,West,,24.3,110.0,,B
+S1802,Male,120.0,,East,105.0,,,No,A
+S1803,male,,Public,West,105.0,-3.0,-10.0, no ,a
+S1804,M,17.0,public,East,-5.0,27.4,89.0, no ,E
+S1805,FEMALE,19.0,PRIVATE ,Central,,-3.0,85.0, no ,A
+S1806,Male,-1.0,public,South,,-3.0,33.0, no ,F
+S1807,Female,15.0,PRIVATE ,North,,,110.0, no ,A
+S1808, female ,17.0,Private,Central,,-3.0,,YES,B
+S1809,,,Private,North,105.0,-3.0,-10.0,No,E
+S1810,male,15.0,PRIVATE ,East,,22.3,110.0,Yes,a
+S1811,,,Private,North,105.0,-3.0,,Yes,A
+S1812,male,17.0,PRIVATE ,Central,72.0,23.0,-10.0,Yes,a
+S1813, female ,,,South,,-3.0,110.0,No,E
+S1814, female ,16.0,Public,Central,105.0,-3.0,,,C
+S1815,male,18.0,Private,West,64.0,4.0,110.0,Yes,D
+S1816,Male,16.0,public,West,,,110.0, no ,A
+S1817,Male,120.0,Private,East,69.0,-3.0,,Yes,C
+S1818,Male,15.0,PRIVATE ,South,-5.0,-3.0,55.0,YES,
+S1819,M,-1.0,public,East,69.0,2.9,110.0,YES,F
+S1820, female ,18.0,Public,Central,,2.6,36.0,No,D
+S1821,Female,,Public,South,-5.0,-3.0,110.0,No,a
+S1822,M,19.0,PRIVATE ,West,,18.9,75.0,,A
+S1823, female ,17.0,PRIVATE ,West,105.0,,110.0,,B
+S1824,,17.0,Private,South,,-3.0,-10.0,Yes,C
+S1825,Male,18.0,public,South,,,-10.0,YES,E
+S1826,male,16.0,public,South,64.0,-3.0,110.0,YES,A
+S1827,FEMALE,18.0,public,North,84.0,-3.0,-10.0,,E
+S1828,F,17.0,public,South,-5.0,9.7,100.0,YES,C
+S1829,Male,19.0,,Central,84.0,,-10.0,No,
+S1830,M,18.0,Private,West,105.0,-3.0,,YES,C
+S1831,Female,,Private,East,105.0,13.8,,Yes,E
+S1832,male,17.0,PRIVATE ,West,105.0,2.1,110.0,Yes,C
+S1833,Female,15.0,Private,North,,0.6,110.0,YES,C
+S1834,Male,15.0,Private,West,100.0,-3.0,110.0,,
+S1835, female ,17.0,,North,,4.6,-10.0,Yes,A
+S1836, female ,16.0,PRIVATE ,West,,4.3,110.0,No,F
+S1837,FEMALE,19.0,Private,North,,,,No,B
+S1838,M,19.0,Private,West,-5.0,3.6,110.0,,F
+S1839,F,17.0,public,West,-5.0,-3.0,64.0,YES,E
+S1840,Male,16.0,Public,North,105.0,-3.0,,,a
+S1841,male,19.0,public,West,-5.0,29.8,-10.0, no ,
+S1842,M,120.0,,Central,105.0,,,No,a
+S1843,F,16.0,Private,North,105.0,21.1,66.0,YES,
+S1844,Female,17.0,Private,Central,-5.0,10.8,, no ,D
+S1845,FEMALE,18.0,Public,West,105.0,,,YES,A
+S1846,Female,16.0,Private,North,105.0,-3.0,38.0,Yes,a
+S1847,male,17.0,PRIVATE ,East,105.0,,, no ,A
+S1848,Female,19.0,,South,59.0,26.4,110.0,Yes,a
+S1849,,120.0,PRIVATE ,South,-5.0,,110.0,YES,B
+S1850,male,120.0,Private,Central,105.0,12.0,,,B
+S1851,,,PRIVATE ,South,,24.8,-10.0,YES,B
+S1852,Female,16.0,Public,South,-5.0,-3.0,40.0,,A
+S1853,FEMALE,19.0,Public,Central,105.0,19.2,-10.0,,A
+S1854,Male,,public,West,-5.0,-3.0,-10.0,,D
+S1855,F,-1.0,PRIVATE ,Central,-5.0,,-10.0,Yes,C
+S1856,F,15.0,Public,South,80.0,8.7,79.0,No,C
+S1857,M,17.0,Public,West,105.0,-3.0,,No,D
+S1858,male,16.0,,North,,2.9,-10.0, no ,B
+S1859,M,,public,North,-5.0,-3.0,-10.0,Yes,C
+S1860, female ,,,West,-5.0,-3.0,37.0,Yes,F
+S1861,F,19.0,public,North,105.0,,-10.0, no ,
+S1862,Male,19.0,Private,North,89.0,22.2,91.0,YES,a
+S1863,F,17.0,PRIVATE ,West,105.0,-3.0,-10.0,,
+S1864,Female,16.0,PRIVATE ,East,61.0,-3.0,110.0,Yes,F
+S1865,,-1.0,PRIVATE ,South,,-3.0,110.0,No,F
+S1866,F,15.0,Private,North,-5.0,-3.0,47.0, no ,E
+S1867,male,19.0,PRIVATE ,West,105.0,-3.0,-10.0,,D
+S1868,male,19.0,Private,South,53.0,-3.0,-10.0,YES,a
+S1869,,,Public,Central,105.0,-3.0,,,D
+S1870,male,16.0,public,North,-5.0,-3.0,, no ,E
+S1871,,15.0,Private,South,,,32.0, no ,C
+S1872,FEMALE,120.0,public,East,105.0,,93.0,Yes,E
+S1873,Female,19.0,public,East,,-3.0,,,a
+S1874,Female,-1.0,,West,,12.9,110.0, no ,E
+S1875, female ,120.0,,West,94.0,29.9,31.0,Yes,
+S1876,,16.0,PRIVATE ,Central,82.0,-3.0,110.0, no ,B
+S1877,,18.0,Public,East,-5.0,-3.0,,No,E
+S1878, female ,19.0,Public,North,,20.2,73.0,No,F
+S1879,M,-1.0,Public,Central,,-3.0,, no ,C
+S1880,male,120.0,Private,Central,-5.0,-3.0,49.0,Yes,a
+S1881,male,19.0,,South,105.0,2.8,75.0,Yes,B
+S1882,Male,120.0,Private,South,105.0,,-10.0,No,E
+S1883,FEMALE,18.0,Public,South,,,-10.0,Yes,B
+S1884,,16.0,Public,North,88.0,-3.0,110.0, no ,F
+S1885,F,18.0,Public,South,,-3.0,, no ,a
+S1886,,-1.0,Public,East,105.0,9.0,92.0,YES,
+S1887,male,15.0,,North,-5.0,27.8,97.0,,C
+S1888,M,18.0,Private,East,105.0,0.9,48.0,YES,
+S1889,Female,18.0,Private,East,-5.0,-3.0,,No,D
+S1890,F,19.0,PRIVATE ,West,-5.0,5.0,,,E
+S1891,Female,-1.0,Public,West,,,-10.0,No,A
+S1892,F,19.0,PRIVATE ,South,-5.0,11.9,-10.0,YES,D
+S1893,FEMALE,16.0,public,North,-5.0,-3.0,35.0,YES,D
+S1894,M,,Public,Central,64.0,,110.0,YES,B
+S1895,F,120.0,Public,East,-5.0,5.9,, no ,B
+S1896,,16.0,public,North,-5.0,17.7,93.0,,A
+S1897, female ,,public,North,,,87.0,Yes,
+S1898,F,16.0,,East,-5.0,-3.0,71.0, no ,A
+S1899, female ,120.0,,North,,,-10.0,Yes,D
+S1900,Male,15.0,Private,North,58.0,,110.0,No,F
+S1901,Male,15.0,public,Central,66.0,-3.0,-10.0, no ,E
+S1902,male,17.0,PRIVATE ,North,,-3.0,,,D
+S1903,,,public,East,-5.0,-3.0,48.0,Yes,F
+S1904,FEMALE,18.0,Public,South,94.0,-3.0,110.0, no ,a
+S1905,,18.0,public,West,-5.0,,-10.0,No,B
+S1906,FEMALE,17.0,PRIVATE ,South,,,110.0,Yes,E
+S1907,male,120.0,PRIVATE ,North,-5.0,,110.0,Yes,D
+S1908,,15.0,public,East,-5.0,,,Yes,B
+S1909,F,-1.0,Public,West,105.0,-3.0,-10.0,YES,F
+S1910,Male,16.0,Private,West,,-3.0,-10.0,No,E
+S1911,F,,Public,North,56.0,19.4,48.0,,E
+S1912,Female,18.0,PRIVATE ,North,84.0,,,No,E
+S1913,FEMALE,,Public,North,105.0,-3.0,-10.0,No,
+S1914,FEMALE,19.0,PRIVATE ,South,-5.0,20.4,-10.0,Yes,
+S1915,M,120.0,,East,105.0,29.2,41.0, no ,A
+S1916,FEMALE,,Private,Central,80.0,1.4,-10.0,,C
+S1917,Female,17.0,public,Central,-5.0,-3.0,,YES,
+S1918,M,19.0,Public,East,79.0,-3.0,,,A
+S1919,F,17.0,public,South,105.0,10.7,,Yes,D
+S1920,Female,120.0,public,East,,,-10.0, no ,a
+S1921, female ,19.0,PRIVATE ,West,62.0,,63.0,,F
+S1922,Female,19.0,,East,,27.8,110.0,,C
+S1923,,19.0,Private,East,68.0,24.0,78.0,,B
+S1924,,15.0,public,South,69.0,,20.0,YES,E
+S1925,Female,17.0,,North,-5.0,,,YES,D
+S1926,,15.0,PRIVATE ,North,105.0,,,YES,E
+S1927,male,19.0,Private,East,,-3.0,110.0,No,a
+S1928, female ,18.0,PRIVATE ,West,69.0,,110.0,Yes,C
+S1929,M,,PRIVATE ,West,-5.0,-3.0,,Yes,A
+S1930,Female,120.0,Private,Central,105.0,-3.0,-10.0,,E
+S1931,F,15.0,Public,North,,-3.0,,Yes,E
+S1932,M,16.0,Public,North,88.0,,-10.0,,A
+S1933,male,18.0,public,North,,,-10.0, no ,D
+S1934,Female,16.0,Private,South,105.0,18.1,86.0,Yes,
+S1935,,15.0,Private,South,75.0,-3.0,,,E
+S1936,Female,,Private,Central,105.0,19.1,110.0,,D
+S1937,,,public,West,-5.0,,-10.0, no ,B
+S1938,F,,Public,Central,105.0,-3.0,,YES,A
+S1939,Male,,Public,South,105.0,,-10.0,YES,D
+S1940,F,-1.0,PRIVATE ,South,82.0,5.2,-10.0,YES,E
+S1941,Female,120.0,,Central,,-3.0,110.0,,E
+S1942,M,17.0,Public,South,-5.0,-3.0,28.0,No,B
+S1943,,16.0,Private,West,,9.7,50.0, no ,B
+S1944, female ,15.0,,North,57.0,25.4,-10.0,No,F
+S1945,,16.0,Private,East,105.0,,110.0, no ,
+S1946,FEMALE,19.0,,North,105.0,,44.0,Yes,D
+S1947,male,15.0,public,South,-5.0,,89.0,,
+S1948,FEMALE,18.0,Public,West,,-3.0,110.0, no ,a
+S1949,Female,16.0,,Central,-5.0,-3.0,49.0,YES,A
+S1950, female ,18.0,Public,Central,,21.1,-10.0,,D
+S1951,F,19.0,public,North,89.0,16.4,,Yes,F
+S1952, female ,120.0,,East,-5.0,26.6,110.0,Yes,D
+S1953,Female,,,West,86.0,10.4,73.0,No,E
+S1954,Female,15.0,PRIVATE ,East,,,,No,A
+S1955,Male,15.0,Public,West,105.0,-3.0,, no ,C
+S1956,F,120.0,public,South,105.0,3.5,-10.0,YES,a
+S1957,FEMALE,15.0,Public,South,64.0,17.7,72.0,Yes,B
+S1958,male,15.0,public,South,105.0,-3.0,110.0,,a
+S1959,Female,,public,South,92.0,,, no ,E
+S1960, female ,-1.0,Public,East,105.0,-3.0,60.0, no ,
+S1961,Female,19.0,,South,105.0,,-10.0,Yes,F
+S1962,Male,17.0,PRIVATE ,North,,-3.0,34.0,YES,E
+S1963, female ,120.0,Public,West,55.0,,, no ,
+S1964,FEMALE,15.0,public,North,,-3.0,88.0,,F
+S1965,M,15.0,PRIVATE ,North,105.0,-3.0,,Yes,a
+S1966,,19.0,Private,North,-5.0,-3.0,110.0,YES,E
+S1967,FEMALE,16.0,public,East,-5.0,-3.0,-10.0,YES,A
+S1968, female ,16.0,Public,West,-5.0,25.1,,Yes,
+S1969,M,15.0,,Central,105.0,,-10.0,YES,B
+S1970,male,,Private,South,-5.0,-3.0,110.0,,A
+S1971,Female,18.0,Public,Central,91.0,,-10.0,No,A
+S1972, female ,19.0,public,North,-5.0,16.2,110.0,Yes,
+S1973,Female,16.0,PRIVATE ,East,105.0,-3.0,73.0,No,A
+S1974,M,-1.0,,North,,-3.0,-10.0,No,F
+S1975, female ,15.0,Private,West,59.0,3.2,-10.0,,A
+S1976,F,17.0,,North,98.0,28.7,,,A
+S1977,,,public,South,-5.0,,110.0,YES,D
+S1978,M,,Public,East,97.0,-3.0,-10.0,,B
+S1979,,-1.0,,South,105.0,-3.0,110.0, no ,C
+S1980, female ,19.0,,West,-5.0,-3.0,110.0,No,C
+S1981,Male,,Private,North,60.0,,80.0, no ,A
+S1982,Female,17.0,,South,,-3.0,,YES,B
+S1983,M,-1.0,PRIVATE ,West,87.0,29.8,-10.0, no ,a
+S1984,,19.0,Private,North,105.0,,95.0,,F
+S1985,F,,Public,South,,,-10.0,YES,
+S1986,Male,-1.0,Private,North,,-3.0,110.0,No,a
+S1987,M,19.0,PRIVATE ,West,-5.0,8.5,-10.0,No,C
+S1988, female ,19.0,Public,South,88.0,,110.0,,C
+S1989,Male,15.0,public,Central,105.0,0.2,110.0, no ,
+S1990,,17.0,PRIVATE ,East,68.0,21.5,,Yes,C
+S1991,Female,19.0,Private,Central,72.0,22.3,-10.0,YES,E
+S1992,Female,,,East,-5.0,26.8,75.0,No,A
+S1993,FEMALE,15.0,PRIVATE ,South,,26.2,-10.0, no ,C
+S1994, female ,,Public,West,105.0,19.0,110.0,Yes,
+S1995,male,18.0,public,West,,,110.0,,C
+S1996,FEMALE,19.0,,West,,,-10.0,YES,B
+S1997,Female,18.0,PRIVATE ,North,-5.0,-3.0,110.0,No,
+S1998,Female,-1.0,Private,North,,-3.0,,YES,E
+S1999,F,18.0,PRIVATE ,West,-5.0,-3.0,, no ,E
+S2000, female ,15.0,PRIVATE ,South,105.0,10.2,,,C
+S2001,Female,18.0,PRIVATE ,North,-5.0,,22.0,YES,F
+S2002,Male,16.0,Private,East,105.0,10.9,,No,F
+S2003,F,-1.0,,West,105.0,28.2,22.0, no ,A
+S2004, female ,17.0,public,North,69.0,,51.0, no ,a
+S2005, female ,17.0,Public,Central,55.0,,73.0,,C
+S2006,F,16.0,public,East,-5.0,-3.0,85.0, no ,D
+S2007, female ,16.0,PRIVATE ,Central,,-3.0,110.0,YES,
+S2008,FEMALE,19.0,,North,74.0,,-10.0, no ,D
+S2009,F,15.0,public,East,105.0,-3.0,92.0,No,B
+S2010,male,16.0,,West,,17.8,,,D
+S2011,,15.0,public,Central,,-3.0,39.0,,a
+S2012, female ,15.0,public,South,105.0,-3.0,,YES,
+S2013,Female,,Private,Central,,-3.0,36.0,Yes,C
+S2014,,18.0,Private,Central,57.0,-3.0,, no ,a
+S2015, female ,15.0,,East,,,-10.0,,C
+S2016, female ,17.0,PRIVATE ,West,105.0,,-10.0,No,F
+S2017,male,17.0,PRIVATE ,North,,-3.0,110.0,Yes,E
+S2018,FEMALE,18.0,,West,94.0,-3.0,32.0,,C
+S2019,M,16.0,public,West,105.0,10.3,-10.0,,E
+S2020,F,-1.0,public,South,105.0,2.3,110.0,YES,B
+S2021,F,17.0,Private,South,-5.0,,,Yes,D
+S2022,Female,18.0,Public,North,105.0,-3.0,-10.0,No,
+S2023,,120.0,PRIVATE ,West,-5.0,15.0,, no ,F
+S2024,M,19.0,Private,West,83.0,26.5,-10.0,,
+S2025, female ,,Public,East,93.0,-3.0,110.0, no ,F
+S2026,FEMALE,120.0,PRIVATE ,East,105.0,11.5,110.0,,D
+S2027, female ,15.0,,East,71.0,-3.0,84.0,Yes,E
+S2028,F,,PRIVATE ,Central,-5.0,8.2,93.0, no ,
+S2029,,17.0,Private,South,97.0,1.1,110.0,Yes,a
+S2030,Male,16.0,,North,78.0,,110.0,YES,F
+S2031,M,17.0,Public,South,83.0,-3.0,73.0,,C
+S2032,Female,19.0,Private,North,,,,YES,E
+S2033,Female,-1.0,Public,North,,,,Yes,C
+S2034,male,16.0,PRIVATE ,North,70.0,23.0,-10.0,No,E
+S2035,male,18.0,Private,Central,69.0,-3.0,-10.0,YES,a
+S2036,FEMALE,18.0,public,North,105.0,-3.0,, no ,F
+S2037,M,-1.0,,West,,,41.0,No,D
+S2038,M,120.0,Public,Central,-5.0,,-10.0,No,E
+S2039,,18.0,PRIVATE ,South,66.0,,110.0, no ,F
+S2040,F,-1.0,Public,South,92.0,9.7,-10.0, no ,
+S2041,M,-1.0,PRIVATE ,Central,91.0,-3.0,110.0,No,A
+S2042,,,public,Central,,-3.0,-10.0,YES,
+S2043, female ,120.0,PRIVATE ,East,105.0,,,,a
+S2044,male,15.0,,South,105.0,,110.0,No,F
+S2045,Female,15.0,PRIVATE ,North,105.0,-3.0,110.0,No,D
+S2046, female ,17.0,Private,South,69.0,5.5,75.0,,F
+S2047,,15.0,PRIVATE ,West,-5.0,,110.0, no ,D
+S2048,F,16.0,public,West,-5.0,22.9,-10.0,,a
+S2049,M,16.0,public,East,81.0,,110.0,YES,A
+S2050,Female,120.0,public,West,105.0,4.1,110.0,Yes,F
+S2051,male,120.0,public,West,105.0,-3.0,81.0,No,C
+S2052,Female,120.0,Public,South,79.0,,,YES,C
+S2053,,120.0,Public,East,,,, no ,E
+S2054,,16.0,Public,South,-5.0,,-10.0, no ,a
+S2055,male,16.0,Private,Central,-5.0,,-10.0,,
+S2056,Male,120.0,Public,Central,-5.0,-3.0,-10.0,YES,E
+S2057,M,120.0,Private,East,-5.0,23.0,-10.0,YES,a
+S2058,,15.0,Public,Central,-5.0,,-10.0, no ,D
+S2059,Female,17.0,public,East,84.0,3.8,, no ,D
+S2060,Male,,PRIVATE ,Central,-5.0,11.2,97.0,Yes,F
+S2061,F,19.0,PRIVATE ,North,75.0,,52.0,No,E
+S2062,FEMALE,19.0,public,South,94.0,-3.0,,YES,A
+S2063,male,120.0,PRIVATE ,South,-5.0,-3.0,46.0,YES,E
+S2064,M,,Public,Central,105.0,,110.0,YES,
+S2065,M,120.0,public,East,,,-10.0,YES,
+S2066,,17.0,public,West,,,,Yes,B
+S2067,M,,public,East,105.0,,-10.0, no ,
+S2068,male,15.0,Public,East,105.0,,,,
+S2069,F,18.0,Private,South,105.0,11.4,,Yes,E
+S2070,male,17.0,,East,,-3.0,,YES,F
+S2071,M,16.0,public,West,,-3.0,,No,C
+S2072, female ,120.0,PRIVATE ,Central,-5.0,,42.0, no ,a
+S2073,FEMALE,120.0,,Central,90.0,18.6,98.0, no ,A
+S2074,FEMALE,-1.0,,Central,,-3.0,,No,C
+S2075,M,,Private,East,105.0,,-10.0,Yes,A
+S2076,,18.0,PRIVATE ,Central,105.0,-3.0,110.0,Yes,F
+S2077,FEMALE,17.0,PRIVATE ,North,79.0,0.2,, no ,E
+S2078,Male,16.0,Public,East,,24.8,, no ,
+S2079,Female,120.0,public,West,105.0,,110.0,YES,C
+S2080,,18.0,PRIVATE ,South,-5.0,,,YES,F
+S2081,,19.0,Private,South,,,55.0,,E
+S2082,FEMALE,15.0,PRIVATE ,West,-5.0,-3.0,-10.0,YES,C
+S2083,male,17.0,Private,Central,-5.0,-3.0,49.0,YES,C
+S2084, female ,15.0,,Central,,14.3,110.0,YES,F
+S2085,,120.0,PRIVATE ,North,105.0,-3.0,,Yes,F
+S2086, female ,18.0,public,West,105.0,,110.0, no ,A
+S2087,FEMALE,18.0,public,Central,73.0,12.0,62.0,,B
+S2088,,15.0,Private,West,105.0,,110.0,No,A
+S2089, female ,19.0,Public,South,105.0,22.0,-10.0,No,D
+S2090,,,PRIVATE ,North,56.0,,110.0, no ,B
+S2091,FEMALE,,,West,105.0,-3.0,92.0,Yes,
+S2092,,18.0,Private,East,-5.0,,,,
+S2093, female ,19.0,PRIVATE ,North,105.0,,-10.0,No,
+S2094,M,15.0,public,North,,14.9,, no ,F
+S2095,FEMALE,17.0,public,Central,99.0,22.9,-10.0, no ,B
+S2096,FEMALE,19.0,Private,Central,105.0,9.7,110.0,No,F
+S2097,F,,public,South,-5.0,-3.0,-10.0,YES,F
+S2098,M,-1.0,PRIVATE ,North,-5.0,-3.0,73.0, no ,F
+S2099,,17.0,public,East,-5.0,,110.0,YES,A
+S2100,F,-1.0,,Central,,,110.0, no ,E
+S2101,Female,16.0,Public,West,105.0,-3.0,, no ,D
+S2102,F,19.0,PRIVATE ,East,53.0,-3.0,-10.0,Yes,
+S2103,Female,17.0,,South,,24.7,-10.0,,B
+S2104,FEMALE,,Public,East,-5.0,-3.0,110.0,YES,
+S2105,male,18.0,public,East,,-3.0,110.0,,A
+S2106,Female,17.0,,East,,-3.0,26.0,Yes,a
+S2107,M,15.0,,North,,-3.0,28.0,,B
+S2108,Female,17.0,public,West,,18.3,, no ,C
+S2109,Female,-1.0,PRIVATE ,Central,-5.0,,75.0,YES,A
+S2110,Male,120.0,,East,105.0,9.7,110.0,,
+S2111,M,18.0,Private,North,105.0,5.7,-10.0,Yes,A
+S2112,M,17.0,public,South,-5.0,26.1,110.0, no ,E
+S2113,FEMALE,18.0,Public,West,-5.0,-3.0,,No,a
+S2114,,15.0,Public,South,,-3.0,95.0,,B
+S2115,FEMALE,17.0,Private,South,,-3.0,,Yes,F
+S2116, female ,,PRIVATE ,West,82.0,28.3,,Yes,F
+S2117, female ,-1.0,Public,West,,,110.0, no ,A
+S2118,M,19.0,Private,Central,105.0,25.4,92.0,No,C
+S2119,Male,,,West,105.0,,-10.0,No,a
+S2120,male,17.0,Public,South,105.0,,-10.0,Yes,
+S2121, female ,18.0,Public,North,-5.0,-3.0,-10.0,YES,A
+S2122,Male,,,Central,105.0,27.4,,No,C
+S2123,Male,16.0,PRIVATE ,West,105.0,2.8,,,
+S2124,Male,17.0,,East,,-3.0,-10.0,,B
+S2125,,,Private,North,105.0,,110.0,Yes,a
+S2126,Female,19.0,PRIVATE ,Central,105.0,,-10.0,,E
+S2127,M,17.0,Public,South,-5.0,,,No,A
+S2128,Male,17.0,PRIVATE ,East,105.0,-3.0,,No,a
+S2129,FEMALE,,public,South,-5.0,16.4,-10.0,YES,F
+S2130,,,Public,East,92.0,-3.0,-10.0, no ,A
+S2131,Female,17.0,Private,East,,24.9,-10.0,YES,
+S2132,Female,120.0,Private,North,105.0,,110.0,No,F
+S2133,Male,17.0,public,South,-5.0,,110.0,Yes,C
+S2134,male,18.0,public,West,,-3.0,,,a
+S2135,,,public,Central,105.0,-3.0,20.0,YES,D
+S2136,Male,16.0,PRIVATE ,South,,-3.0,110.0, no ,a
+S2137,FEMALE,18.0,Public,Central,72.0,-3.0,,No,D
+S2138,male,,,North,-5.0,22.8,-10.0,,
+S2139,,18.0,Public,East,69.0,,110.0,YES,A
+S2140, female ,120.0,Private,Central,,12.8,-10.0,Yes,B
+S2141,FEMALE,-1.0,Public,East,,-3.0,73.0,YES,E
+S2142,F,-1.0,PRIVATE ,South,-5.0,29.5,21.0,,
+S2143,F,18.0,,Central,-5.0,,, no ,A
+S2144,Female,16.0,PRIVATE ,North,86.0,3.5,,YES,
+S2145,Male,,Public,East,,20.1,110.0,Yes,E
+S2146,Male,120.0,public,South,,-3.0,-10.0,YES,
+S2147,M,15.0,PRIVATE ,East,-5.0,23.1,-10.0,No,
+S2148,M,16.0,PRIVATE ,East,105.0,-3.0,32.0,,
+S2149,F,17.0,PRIVATE ,East,-5.0,-3.0,-10.0,No,C
+S2150,Male,-1.0,,Central,105.0,,-10.0,No,a
+S2151,FEMALE,16.0,Private,East,55.0,,-10.0,,F
+S2152,male,120.0,public,South,74.0,,57.0, no ,A
+S2153,male,18.0,Private,West,-5.0,0.8,110.0,No,C
+S2154, female ,15.0,,Central,65.0,-3.0,,,D
+S2155,male,120.0,public,West,,-3.0,-10.0,YES,F
+S2156,M,18.0,Private,Central,-5.0,,-10.0,,C
+S2157,,16.0,,South,-5.0,,-10.0, no ,E
+S2158,,15.0,Public,Central,,-3.0,110.0, no ,A
+S2159,,-1.0,,East,105.0,-3.0,-10.0,Yes,
+S2160,male,120.0,public,South,105.0,-3.0,-10.0,,a
+S2161,M,17.0,Public,Central,50.0,-3.0,95.0,Yes,a
+S2162,FEMALE,17.0,public,North,105.0,25.1,83.0,Yes,a
+S2163,F,120.0,public,East,,-3.0,43.0,No,a
+S2164,,19.0,Public,East,105.0,7.8,-10.0, no ,B
+S2165,Male,19.0,Private,North,88.0,29.5,67.0,,A
+S2166,M,15.0,Public,South,-5.0,,-10.0,No,
+S2167,FEMALE,17.0,,South,72.0,26.2,-10.0, no ,C
+S2168,,17.0,Public,East,51.0,28.1,-10.0,No,C
+S2169,,16.0,PRIVATE ,North,105.0,-3.0,,,B
+S2170,FEMALE,-1.0,Public,East,105.0,-3.0,,Yes,
+S2171,Female,16.0,,South,-5.0,,,YES,F
+S2172,,17.0,PRIVATE ,West,105.0,,,Yes,
+S2173,,15.0,PRIVATE ,East,-5.0,,-10.0,Yes,A
+S2174,Female,18.0,Public,East,105.0,,26.0, no ,D
+S2175,Male,-1.0,Public,South,,,-10.0,Yes,
+S2176,FEMALE,17.0,,Central,-5.0,2.2,110.0,Yes,A
+S2177,FEMALE,120.0,Private,West,94.0,27.7,-10.0,No,F
+S2178,Male,120.0,,East,105.0,,,No,E
+S2179,Male,120.0,,North,,11.3,-10.0, no ,A
+S2180,male,,PRIVATE ,North,105.0,2.1,110.0,No,F
+S2181, female ,17.0,Public,North,,-3.0,-10.0, no ,D
+S2182,,16.0,Public,North,105.0,15.5,,No,A
+S2183,male,120.0,Private,West,55.0,,,,A
+S2184,FEMALE,18.0,public,South,-5.0,1.3,-10.0,YES,
+S2185,Male,18.0,Private,South,,-3.0,84.0,No,F
+S2186,Male,,,South,78.0,,-10.0,No,F
+S2187,Female,15.0,public,East,93.0,,110.0,Yes,C
+S2188,FEMALE,16.0,Private,North,,0.1,69.0,,B
+S2189,,15.0,Private,West,,,,,E
+S2190,,-1.0,public,South,105.0,-3.0,110.0, no ,E
+S2191,M,17.0,PRIVATE ,West,97.0,-3.0,38.0,,D
+S2192,male,120.0,PRIVATE ,West,-5.0,-3.0,, no ,a
+S2193,M,,Private,South,-5.0,20.0,110.0,No,D
+S2194,,-1.0,Private,West,,-3.0,,Yes,
+S2195,F,19.0,,West,105.0,,,No,
+S2196,FEMALE,15.0,PRIVATE ,Central,105.0,,110.0,No,C
+S2197,M,120.0,,Central,105.0,26.0,-10.0,,A
+S2198,Female,16.0,public,East,55.0,0.3,62.0,No,C
+S2199, female ,18.0,PRIVATE ,East,-5.0,-3.0,,No,E
+S2200,Female,19.0,Public,Central,105.0,27.0,,,a
+S2201,,17.0,PRIVATE ,North,-5.0,20.7,110.0,Yes,C
+S2202,,120.0,PRIVATE ,Central,,5.1,-10.0,,C
+S2203,Male,,Private,South,-5.0,26.6,67.0,,E
+S2204,male,120.0,public,Central,105.0,-3.0,57.0, no ,A
+S2205,male,120.0,PRIVATE ,East,-5.0,-3.0,86.0,No,A
+S2206, female ,18.0,PRIVATE ,North,,-3.0,-10.0,YES,A
+S2207,Male,17.0,PRIVATE ,North,97.0,9.1,,YES,a
+S2208,M,-1.0,public,Central,,-3.0,-10.0,No,
+S2209, female ,19.0,Public,South,,27.6,60.0,Yes,D
+S2210,male,16.0,Public,North,73.0,4.6,31.0,YES,B
+S2211,,17.0,Public,South,-5.0,23.6,98.0,No,B
+S2212,Female,17.0,Public,North,95.0,,110.0, no ,F
+S2213,,18.0,,North,,18.2,-10.0, no ,C
+S2214,Female,15.0,Public,North,105.0,,110.0,No,C
+S2215,FEMALE,-1.0,,East,,,,No,a
+S2216,M,19.0,Private,North,105.0,,-10.0,Yes,B
+S2217,M,,Public,North,96.0,-3.0,,YES,F
+S2218, female ,16.0,PRIVATE ,East,-5.0,,-10.0, no ,F
+S2219,FEMALE,18.0,PRIVATE ,East,105.0,-3.0,, no ,
+S2220,,,Private,East,105.0,-3.0,73.0, no ,C
+S2221,M,120.0,,South,,,110.0,No,B
+S2222,F,15.0,PRIVATE ,South,105.0,8.1,,YES,E
+S2223,FEMALE,18.0,public,North,,13.0,82.0,Yes,F
+S2224, female ,,PRIVATE ,North,105.0,-3.0,,YES,C
+S2225, female ,-1.0,public,East,,,-10.0,No,F
+S2226,Female,,Private,East,,11.1,-10.0, no ,E
+S2227,M,-1.0,,Central,105.0,-3.0,110.0,No,D
+S2228,,,,East,-5.0,15.3,110.0,Yes,
+S2229, female ,,public,North,,11.7,110.0, no ,D
+S2230,Male,18.0,public,East,-5.0,-3.0,110.0, no ,F
+S2231,FEMALE,18.0,Private,West,88.0,8.9,-10.0, no ,A
+S2232, female ,19.0,public,West,105.0,8.9,73.0,No,
+S2233,male,120.0,public,South,,22.8,,,
+S2234,male,19.0,public,Central,105.0,9.7,35.0, no ,F
+S2235,M,17.0,PRIVATE ,South,,,-10.0,YES,A
+S2236,M,19.0,Public,North,86.0,26.5,,No,C
+S2237,male,16.0,Public,West,105.0,-3.0,-10.0,YES,B
+S2238,F,,,North,84.0,,110.0,No,
+S2239,Female,17.0,Public,South,-5.0,6.8,91.0, no ,A
+S2240,FEMALE,15.0,public,West,105.0,28.5,-10.0, no ,A
+S2241,,19.0,Private,South,,16.5,45.0,,
+S2242,M,15.0,PRIVATE ,South,94.0,-3.0,110.0,No,A
+S2243, female ,19.0,public,South,-5.0,15.3,-10.0,YES,E
+S2244,Female,120.0,Private,South,-5.0,-3.0,,Yes,A
+S2245,Female,120.0,,East,105.0,,110.0,YES,
+S2246,FEMALE,15.0,Private,South,-5.0,6.5,59.0,YES,D
+S2247,F,,PRIVATE ,West,-5.0,-3.0,110.0,,E
+S2248,Female,18.0,Public,East,89.0,26.5,99.0,Yes,E
+S2249,F,,PRIVATE ,East,105.0,-3.0,110.0,Yes,E
+S2250,Male,120.0,PRIVATE ,South,69.0,-3.0,-10.0,Yes,A
+S2251,male,,public,North,50.0,2.6,-10.0,,
+S2252,male,16.0,PRIVATE ,West,63.0,-3.0,23.0, no ,a
+S2253,Male,17.0,Private,East,86.0,-3.0,,Yes,E
+S2254,FEMALE,18.0,,West,,,,No,A
+S2255,M,19.0,public,East,-5.0,-3.0,110.0,,C
+S2256,M,-1.0,public,South,105.0,-3.0,-10.0, no ,a
+S2257,F,-1.0,PRIVATE ,Central,-5.0,-3.0,,No,A
+S2258,male,-1.0,Private,West,-5.0,,110.0,Yes,a
+S2259,Male,16.0,Private,East,83.0,-3.0,110.0, no ,B
+S2260,M,-1.0,PRIVATE ,North,,-3.0,-10.0,No,
+S2261,FEMALE,17.0,Private,North,95.0,,,YES,D
+S2262, female ,120.0,Public,East,63.0,28.5,23.0,Yes,D
+S2263,Female,17.0,PRIVATE ,North,-5.0,13.6,-10.0,,E
+S2264,F,-1.0,,Central,105.0,,,Yes,
+S2265,,15.0,,North,-5.0,,, no ,F
+S2266,Male,,,North,74.0,28.9,-10.0,Yes,D
+S2267,,16.0,public,Central,-5.0,-3.0,-10.0, no ,D
+S2268,Female,120.0,Public,Central,105.0,,,No,
+S2269,F,19.0,Private,West,84.0,7.6,,YES,C
+S2270, female ,15.0,Private,West,-5.0,,39.0, no ,D
+S2271,F,15.0,Private,East,105.0,23.2,110.0,,
+S2272,,18.0,PRIVATE ,West,94.0,3.0,36.0,YES,a
+S2273,M,15.0,,West,90.0,12.6,,Yes,B
+S2274, female ,16.0,Public,North,-5.0,,110.0,No,B
+S2275,FEMALE,17.0,,West,-5.0,-3.0,110.0,Yes,A
+S2276,FEMALE,18.0,public,North,-5.0,,70.0,,A
+S2277, female ,16.0,PRIVATE ,South,87.0,9.1,110.0,No,
+S2278,,,Private,South,63.0,,100.0,,C
+S2279,,16.0,public,South,82.0,17.0,,YES,a
+S2280,F,15.0,PRIVATE ,West,-5.0,23.4,-10.0,,D
+S2281,,17.0,,Central,,,110.0,YES,
+S2282,F,16.0,Public,East,88.0,,110.0,YES,a
+S2283,,19.0,public,West,-5.0,,-10.0,,
+S2284,male,120.0,public,East,-5.0,-3.0,63.0,YES,E
+S2285,M,18.0,public,Central,105.0,-3.0,110.0, no ,E
+S2286,F,19.0,public,Central,105.0,23.0,110.0,,F
+S2287,,18.0,Private,Central,105.0,,110.0,YES,C
+S2288,M,,,East,,-3.0,,No,E
+S2289, female ,16.0,Private,East,,-3.0,20.0, no ,
+S2290,F,19.0,,North,-5.0,-3.0,, no ,a
+S2291,M,120.0,Public,East,105.0,-3.0,26.0,Yes,E
+S2292,Female,17.0,Public,North,,,92.0,YES,E
+S2293,F,19.0,,East,105.0,,-10.0,No,C
+S2294,M,15.0,Private,North,105.0,-3.0,46.0,,E
+S2295,Female,,,South,105.0,25.4,,No,D
+S2296,Female,19.0,PRIVATE ,South,105.0,-3.0,,No,B
+S2297,F,16.0,Public,Central,,,,YES,D
+S2298,F,,PRIVATE ,Central,-5.0,-3.0,,No,F
+S2299,Female,17.0,public,East,,-3.0,110.0, no ,E
+S2300, female ,18.0,Public,West,,-3.0,110.0,Yes,a
+S2301,M,-1.0,Public,West,74.0,,,YES,F
+S2302, female ,18.0,Public,West,-5.0,14.4,110.0,YES,A
+S2303,Female,18.0,public,North,105.0,,90.0,,E
+S2304,male,,PRIVATE ,East,105.0,-3.0,110.0,No,B
+S2305,Female,18.0,,West,89.0,,-10.0, no ,C
+S2306,Male,18.0,,North,62.0,2.0,110.0, no ,F
+S2307,male,17.0,public,Central,105.0,7.4,110.0,Yes,A
+S2308,male,120.0,,East,60.0,14.1,-10.0, no ,D
+S2309,male,,Public,West,95.0,21.4,97.0,No,A
+S2310,,19.0,,West,,-3.0,,,F
+S2311, female ,120.0,Private,North,,-3.0,36.0,,F
+S2312,Female,19.0,public,West,,-3.0,67.0,No,A
+S2313,F,18.0,PRIVATE ,South,105.0,,-10.0,No,A
+S2314,,18.0,Private,West,,,-10.0,No,a
+S2315,FEMALE,15.0,PRIVATE ,West,59.0,8.9,,Yes,E
+S2316,,-1.0,,South,,-3.0,-10.0,Yes,B
+S2317, female ,17.0,Public,West,53.0,,-10.0, no ,F
+S2318,M,,PRIVATE ,West,-5.0,8.5,86.0, no ,A
+S2319,male,16.0,Private,South,-5.0,-3.0,110.0,Yes,a
+S2320,F,19.0,PRIVATE ,Central,64.0,1.3,110.0,No,a
+S2321,F,17.0,Private,North,-5.0,29.7,20.0,YES,
+S2322,FEMALE,16.0,PRIVATE ,East,105.0,-3.0,34.0,,F
+S2323, female ,,,Central,-5.0,-3.0,110.0,YES,D
+S2324,Male,18.0,PRIVATE ,North,,,,,E
+S2325,Female,19.0,Private,North,105.0,25.3,,,F
+S2326,F,120.0,Public,East,-5.0,9.0,,Yes,a
+S2327,F,120.0,Public,East,,14.2,-10.0,No,
+S2328,F,,,South,105.0,12.2,110.0,YES,C
+S2329,F,-1.0,,West,55.0,,110.0, no ,B
+S2330,Male,17.0,public,Central,,5.3,-10.0,Yes,A
+S2331, female ,17.0,,North,71.0,,30.0,No,C
+S2332,,120.0,,East,-5.0,,87.0,No,B
+S2333, female ,,PRIVATE ,East,60.0,14.9,56.0,No,
+S2334,M,,Private,East,-5.0,,,YES,D
+S2335,,18.0,Private,North,105.0,1.1,95.0, no ,C
+S2336,Female,17.0,PRIVATE ,West,-5.0,,,Yes,E
+S2337,,18.0,Public,North,91.0,-3.0,-10.0,Yes,E
+S2338,male,120.0,Private,East,,-3.0,, no ,F
+S2339,Male,17.0,public,South,105.0,-3.0,,Yes,C
+S2340,,18.0,public,East,105.0,-3.0,24.0,,F
+S2341,Male,-1.0,Private,East,,,110.0,,E
+S2342,FEMALE,120.0,,West,77.0,,-10.0,Yes,E
+S2343,Male,-1.0,public,Central,76.0,-3.0,110.0,No,
+S2344, female ,19.0,PRIVATE ,East,91.0,,-10.0,Yes,D
+S2345,FEMALE,15.0,public,Central,105.0,-3.0,26.0,,a
+S2346, female ,15.0,Public,South,99.0,,-10.0, no ,F
+S2347,FEMALE,17.0,Public,North,,,,No,E
+S2348, female ,17.0,public,North,-5.0,-3.0,110.0,YES,E
+S2349,Female,16.0,public,South,59.0,25.6,50.0,Yes,
+S2350,Female,-1.0,Public,East,,-3.0,-10.0,Yes,F
+S2351,F,17.0,Private,South,-5.0,,31.0,YES,C
+S2352,,18.0,,West,-5.0,-3.0,75.0,No,C
+S2353,,18.0,,West,99.0,,, no ,F
+S2354,FEMALE,-1.0,Public,East,52.0,13.6,-10.0,YES,a
+S2355,M,15.0,,South,79.0,4.0,96.0, no ,
+S2356,Female,-1.0,public,Central,89.0,,110.0, no ,E
+S2357,Female,15.0,Private,East,-5.0,19.9,,YES,a
+S2358,M,16.0,Public,East,,-3.0,72.0,YES,C
+S2359,male,16.0,public,North,83.0,10.9,-10.0,No,D
+S2360,FEMALE,16.0,,Central,-5.0,,89.0,,E
+S2361,Female,19.0,public,North,75.0,-3.0,-10.0,No,B
+S2362,Male,16.0,public,South,,-3.0,71.0,,D
+S2363,M,16.0,PRIVATE ,South,105.0,,33.0,No,C
+S2364,F,18.0,,South,-5.0,,,Yes,a
+S2365,F,18.0,,East,-5.0,-3.0,,YES,D
+S2366,F,16.0,public,South,,0.0,110.0,,C
+S2367,FEMALE,16.0,PRIVATE ,South,58.0,6.9,25.0,No,E
+S2368,Male,16.0,Public,East,105.0,,,No,
+S2369,male,17.0,,East,96.0,-3.0,, no ,D
+S2370,FEMALE,17.0,PRIVATE ,East,-5.0,,, no ,A
+S2371,Male,19.0,Private,West,,4.8,-10.0,Yes,E
+S2372, female ,17.0,,West,105.0,12.8,80.0,YES,E
+S2373,,18.0,PRIVATE ,South,-5.0,-3.0,110.0, no ,C
+S2374,FEMALE,15.0,Public,East,,,110.0,YES,E
+S2375, female ,16.0,Private,East,-5.0,22.4,28.0,YES,D
+S2376,,17.0,,East,83.0,4.5,,Yes,
+S2377,male,18.0,,South,-5.0,-3.0,-10.0, no ,F
+S2378,F,16.0,public,West,105.0,-3.0,-10.0,No,F
+S2379,FEMALE,,Private,West,77.0,20.7,110.0,Yes,D
+S2380,F,,Private,South,84.0,,110.0,No,F
+S2381,Male,16.0,,West,66.0,-3.0,-10.0,No,B
+S2382,FEMALE,-1.0,Public,West,89.0,-3.0,110.0,YES,C
+S2383,,15.0,,East,,26.6,110.0,Yes,a
+S2384,M,-1.0,,North,,16.7,23.0,YES,D
+S2385,male,17.0,Private,East,64.0,22.0,110.0, no ,A
+S2386,FEMALE,,public,West,105.0,,-10.0,No,B
+S2387,,17.0,PRIVATE ,North,74.0,5.1,110.0,Yes,C
+S2388,Female,18.0,,Central,,3.3,-10.0,,F
+S2389,male,,public,East,105.0,-3.0,,YES,D
+S2390,FEMALE,15.0,,North,-5.0,,79.0,No,A
+S2391,Female,18.0,Public,Central,,,110.0,No,D
+S2392,FEMALE,17.0,,Central,53.0,,-10.0,Yes,E
+S2393,M,19.0,Private,South,105.0,24.8,,No,B
+S2394,,17.0,PRIVATE ,South,,,-10.0,YES,F
+S2395,Male,15.0,Public,East,98.0,,23.0,No,B
+S2396,FEMALE,16.0,,North,80.0,,67.0,No,F
+S2397,F,-1.0,public,South,93.0,,-10.0,Yes,C
+S2398, female ,,public,West,81.0,-3.0,84.0, no ,A
+S2399,,120.0,PRIVATE ,East,51.0,18.0,110.0,YES,B
+S2400, female ,-1.0,PRIVATE ,South,105.0,,110.0,YES,D
+S2401,M,-1.0,Public,Central,92.0,11.0,,Yes,
+S2402,F,15.0,,East,105.0,,,Yes,C
+S2403,Female,17.0,,North,-5.0,24.1,-10.0,,A
+S2404, female ,19.0,,South,105.0,-3.0,110.0, no ,D
+S2405,F,16.0,,East,105.0,4.6,,No,E
+S2406, female ,120.0,,West,60.0,-3.0,-10.0,No,B
+S2407, female ,19.0,Private,East,,-3.0,,YES,E
+S2408,male,15.0,public,South,105.0,-3.0,110.0,Yes,B
+S2409,F,,Private,North,,-3.0,85.0,YES,D
+S2410, female ,17.0,Public,East,105.0,,-10.0,Yes,E
+S2411,FEMALE,18.0,,East,105.0,-3.0,-10.0,Yes,a
+S2412,male,18.0,Public,Central,56.0,,,Yes,D
+S2413,Female,18.0,Private,North,105.0,14.8,-10.0, no ,A
+S2414,Female,16.0,PRIVATE ,Central,,-3.0,69.0, no ,A
+S2415,male,15.0,public,West,63.0,29.9,95.0,Yes,C
+S2416,FEMALE,15.0,public,Central,,,-10.0,Yes,a
+S2417,FEMALE,15.0,Public,East,-5.0,-3.0,37.0,,B
+S2418, female ,16.0,public,North,-5.0,-3.0,,,C
+S2419,FEMALE,120.0,Public,South,105.0,,110.0, no ,E
+S2420,M,-1.0,,Central,76.0,2.8,110.0, no ,A
+S2421,Male,-1.0,Public,Central,-5.0,-3.0,,Yes,B
+S2422,F,17.0,public,West,99.0,28.2,110.0, no ,B
+S2423,F,15.0,Private,South,,,47.0,YES,F
+S2424,Male,-1.0,PRIVATE ,Central,105.0,13.1,,No,D
+S2425, female ,19.0,,West,97.0,-3.0,90.0,No,F
+S2426,FEMALE,19.0,,North,105.0,12.2,-10.0,Yes,B
+S2427,,-1.0,,Central,94.0,18.2,-10.0,Yes,E
+S2428,male,19.0,,Central,,,,,a
+S2429, female ,120.0,,East,,,110.0,,a
+S2430,male,18.0,Private,South,71.0,,110.0,Yes,C
+S2431, female ,18.0,PRIVATE ,Central,105.0,-3.0,71.0,Yes,
+S2432,F,17.0,Private,South,90.0,-3.0,,YES,D
+S2433,M,18.0,public,North,-5.0,,37.0,YES,a
+S2434,male,16.0,,East,,,,,C
+S2435, female ,120.0,Private,North,,-3.0,72.0,,
+S2436,Female,120.0,Public,East,105.0,,-10.0,No,E
+S2437,male,120.0,Public,South,-5.0,-3.0,100.0, no ,D
+S2438,Male,15.0,Public,West,,-3.0,28.0,,D
+S2439,Female,16.0,Public,West,105.0,-3.0,23.0,,A
+S2440,Female,19.0,PRIVATE ,South,68.0,-3.0,,,D
+S2441,F,,public,North,105.0,-3.0,-10.0, no ,
+S2442, female ,,PRIVATE ,South,105.0,-3.0,,,C
+S2443,Male,-1.0,PRIVATE ,North,85.0,-3.0,,No,B
+S2444,Male,19.0,PRIVATE ,South,-5.0,2.0,110.0,Yes,C
+S2445,M,-1.0,,North,105.0,-3.0,, no ,A
+S2446,male,18.0,Public,South,93.0,2.4,, no ,D
+S2447,male,-1.0,Private,South,,-3.0,68.0, no ,B
+S2448, female ,19.0,Public,South,66.0,21.8,-10.0, no ,E
+S2449,Female,15.0,Private,East,-5.0,8.5,,Yes,a
+S2450,Female,,Private,North,,-3.0,110.0,Yes,C
+S2451,,16.0,Private,Central,105.0,3.1,,,F
+S2452,,,Public,Central,,26.0,110.0,No,F
+S2453,Male,120.0,,Central,105.0,-3.0,, no ,a
+S2454,,16.0,,South,80.0,-3.0,,Yes,F
+S2455,F,15.0,public,East,105.0,2.5,110.0,No,B
+S2456,M,120.0,PRIVATE ,Central,-5.0,-3.0,-10.0,No,B
+S2457,Female,17.0,,Central,105.0,-3.0,78.0,,E
+S2458,F,18.0,Public,East,-5.0,23.5,110.0,Yes,D
+S2459, female ,120.0,,Central,-5.0,-3.0,-10.0,,B
+S2460, female ,16.0,PRIVATE ,North,,,78.0,YES,C
+S2461,F,18.0,,West,,,43.0,YES,a
+S2462,Female,16.0,,South,,,,,a
+S2463,male,,,East,-5.0,15.5,83.0,,A
+S2464,male,120.0,public,West,105.0,,54.0, no ,F
+S2465,Male,,public,East,51.0,,-10.0,YES,C
+S2466,,120.0,Private,South,,-3.0,-10.0,No,E
+S2467,FEMALE,120.0,public,South,62.0,10.2,53.0,,F
+S2468,male,,,South,,,,No,F
+S2469,Female,-1.0,Public,West,64.0,-3.0,-10.0,,E
+S2470,M,120.0,Private,North,-5.0,,-10.0,No,E
+S2471,Female,16.0,,East,,18.0,110.0,,D
+S2472,Male,19.0,public,West,-5.0,-3.0,-10.0,Yes,F
+S2473,FEMALE,-1.0,PRIVATE ,West,105.0,-3.0,110.0,,B
+S2474,F,18.0,Public,East,-5.0,,110.0,Yes,A
+S2475,male,-1.0,,North,,18.5,,,C
+S2476,Male,,PRIVATE ,South,-5.0,,-10.0,No,F
+S2477,F,120.0,PRIVATE ,Central,-5.0,,, no ,E
+S2478,male,19.0,,East,,,-10.0,,a
+S2479,M,-1.0,Public,West,-5.0,5.3,58.0,YES,A
+S2480,Male,17.0,,South,52.0,-3.0,110.0,Yes,D
+S2481,Female,17.0,PRIVATE ,North,-5.0,2.1,-10.0,,D
+S2482,male,120.0,PRIVATE ,Central,93.0,-3.0,,,
+S2483,,17.0,PRIVATE ,South,105.0,,-10.0,Yes,C
+S2484,male,-1.0,Private,Central,-5.0,6.3,110.0,Yes,C
+S2485,Female,18.0,,North,105.0,,-10.0,Yes,a
+S2486,Female,15.0,,West,105.0,-3.0,110.0,YES,A
+S2487,,17.0,PRIVATE ,West,75.0,20.0,-10.0,YES,E
+S2488, female ,-1.0,Private,Central,105.0,,-10.0,Yes,
+S2489,FEMALE,120.0,Public,West,96.0,,,No,B
+S1936,FEMALE,18.0,Public,East,105.0,,110.0,No,C
+S1317,F,18.0,public,South,60.0,-3.0,94.0,,C
+S1484,M,17.0,public,Central,-5.0,21.1,110.0,YES,E
+S1855,,16.0,PRIVATE ,East,,-3.0,110.0,No,A
+S2169, female ,-1.0,PRIVATE ,Central,,,110.0,,
+S1005,male,17.0,,West,78.0,-3.0,,Yes,D
+S2004,male,-1.0,public,West,105.0,3.9,110.0,Yes,D
+S1354,Male,15.0,public,South,,,,YES,F
+S1378,F,18.0,PRIVATE ,North,53.0,-3.0,110.0,,F
+S1224,Female,,Public,South,105.0,,93.0,,C
